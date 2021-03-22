@@ -1,6 +1,6 @@
 This repository provides metadata to support UX around emoji. In particular, it describes how to construct an emoji picker with full support for skin tones.
 
-`emoji_13_0_ordering.json` describes a grid layout for an emoji picker with 9 emoji per row for Emoji 13. As emoji evolves new orderings will be added, such as for Emoji 13.1. A snippet is shown annotated below:
+`emoji_13_1_ordering.json` describes a grid layout for an emoji picker with 9 emoji per row for Emoji 13.1. As emoji evolves new orderings will be added, such as for Emoji 14.0. A snippet is shown annotated below:
 
 ```js
   {
@@ -24,6 +24,10 @@ This repository provides metadata to support UX around emoji. In particular, it 
             127995
           ],
           // ...etc...
+        ],
+        // Emoticon(s)
+        "emoticons": [
+          ">:P"
         ]
       },
 ```
