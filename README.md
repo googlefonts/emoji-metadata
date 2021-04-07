@@ -28,7 +28,11 @@ This repository provides metadata to support UX around emoji. In particular, it 
         // Emoticon(s)
         "emoticons": [
           ">:P"
-        ]
+        ],
+        // Shortcode(s)
+        "shortcodes": [
+          ":smirk:"
+        ],
       },
 ```
 
