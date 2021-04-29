@@ -23,7 +23,7 @@
           "=D"
         ],
         "shortcodes": [
-          ":smile-with-open-mouth:"
+          ":smile-with-big-eyes:"
         ]
       },
       {
@@ -202,7 +202,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          "partying-face"
+          ":partying-face:"
         ]
       },
       {
@@ -770,7 +770,7 @@
           "\u2022_\u2022'"
         ],
         "shortcodes": [
-          ":relieved:"
+          ":concerned:"
         ]
       },
       {
@@ -1881,7 +1881,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":bone:"
+          ":blood:"
         ]
       },
       {
@@ -3122,7 +3122,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":pointing-up:"
+          ":point-up:"
         ]
       },
       {
@@ -3156,7 +3156,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":pointing-down:"
+          ":point-down:"
         ]
       },
       {
@@ -3190,7 +3190,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":pointing-right:"
+          ":point-right:"
         ]
       },
       {
@@ -3224,7 +3224,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":pointing-left:"
+          ":point-left:"
         ]
       },
       {
@@ -9208,7 +9208,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":construction:"
+          ":construction-worker:"
         ]
       },
       {
@@ -13694,7 +13694,7 @@
           "(-}{-)"
         ],
         "shortcodes": [
-          ":kiss:"
+          ":kiss-people:"
         ]
       },
       {
@@ -16319,7 +16319,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":plant:"
+          ":potted-plant:"
         ]
       },
       {
@@ -16431,7 +16431,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":fog:"
+          ":foggy:"
         ]
       },
       {
@@ -16713,7 +16713,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          "::droplet::"
+          ":droplet:"
         ]
       },
       {
@@ -16723,7 +16723,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":umbrella:"
+          ":umbrella-in-rain:"
         ]
       },
       {
@@ -17016,7 +17016,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":monkey:"
+          ":monkey-face:"
         ]
       },
       {
@@ -17026,7 +17026,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":lion:"
+          ":lion-face:"
         ]
       },
       {
@@ -17036,7 +17036,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":tiger:"
+          ":tiger-face:"
         ]
       },
       {
@@ -17048,7 +17048,7 @@
           "=^.^="
         ],
         "shortcodes": [
-          ":cat:"
+          ":cat-face:"
         ]
       },
       {
@@ -17060,7 +17060,7 @@
           "\u25bc\u30fb\u1d25\u30fb\u25bc"
         ],
         "shortcodes": [
-          ":dog:"
+          ":dog-face:"
         ]
       },
       {
@@ -17082,7 +17082,7 @@
           "\u0295\u00b7\u1d25\u00b7\u0294"
         ],
         "shortcodes": [
-          ":bear:"
+          ":bear-face:"
         ]
       },
       {
@@ -20543,7 +20543,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":department-store:"
+          ":house-with-garden:"
         ]
       },
       {
@@ -21733,7 +21733,8 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":musical-note:"
+          "::musical-score:",
+          ":treble-clef:"
         ]
       },
       {
@@ -21743,7 +21744,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":musical-notes:"
+          ":musical-note:"
         ]
       },
       {
@@ -21753,8 +21754,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          "::musical-score:",
-          ":treble-clef:"
+          ":musical-notes:"
         ]
       },
       {
@@ -23337,7 +23337,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":axe:"
+          ":wrench:"
         ]
       },
       {
@@ -23464,7 +23464,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":pushpin:"
+          ":scissors:"
         ]
       },
       {
@@ -23474,7 +23474,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":scissors:"
+          ":pushpin:"
         ]
       },
       {
@@ -23484,7 +23484,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":scissors:"
+          ":round-pushpin:"
         ]
       },
       {
@@ -24434,7 +24434,8 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":nazar-amulet:"
+          ":evil-eye:",
+          "nazar-amulet:"
         ]
       },
       {
@@ -24486,7 +24487,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":cigarette:"
+          ":headstone:"
         ]
       },
       {
@@ -24496,7 +24497,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":bomb:"
+          ":cigarette:"
         ]
       },
       {
@@ -24506,7 +24507,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":barber-pole:"
+          ":bomb:"
         ]
       },
       {
@@ -24516,7 +24517,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":balance-scale:"
+          ":mouse-trap:"
         ]
       },
       {
@@ -24526,7 +24527,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":balance-scale:"
+          ":scroll:"
         ]
       },
       {
@@ -25445,7 +25446,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":prohibited:"
+          ":prohibited-button:"
         ]
       },
       {
@@ -25988,7 +25989,6 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":eight-pointed-star:",
           ":eight-spoked-asterisk:"
         ]
       },
@@ -26107,7 +26107,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":up-arrow:"
+        ]
       },
       {
         "base": [
@@ -26116,7 +26118,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":up-right-arrow:"
+        ]
       },
       {
         "base": [
@@ -26125,7 +26129,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":right-arrow:"
+        ]
       },
       {
         "base": [
@@ -26134,7 +26140,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":down-right-arrow:"
+        ]
       },
       {
         "base": [
@@ -26143,7 +26151,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":down-arrow:"
+        ]
       },
       {
         "base": [
@@ -26152,7 +26162,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":down-left-arrow:"
+        ]
       },
       {
         "base": [
@@ -26161,7 +26173,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":left-arrow:"
+        ]
       },
       {
         "base": [
@@ -26170,7 +26184,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":up-left-arrow:"
+        ]
       },
       {
         "base": [
@@ -26179,7 +26195,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":up-down-arrow:"
+        ]
       },
       {
         "base": [
@@ -26188,7 +26206,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":left-right-arrow:"
+        ]
       },
       {
         "base": [
@@ -26197,7 +26217,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":right-arrow-curving-left:"
+        ]
       },
       {
         "base": [
@@ -26206,7 +26228,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":left-arrow-curving-right:"
+        ]
       },
       {
         "base": [
@@ -26215,7 +26239,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":right-arrow-curving-up:"
+        ]
       },
       {
         "base": [
@@ -26224,7 +26250,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":right-arrow-curving-down:"
+        ]
       },
       {
         "base": [
@@ -26232,7 +26260,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":clockwise-arrows:"
+        ]
       },
       {
         "base": [
@@ -26240,7 +26270,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":counterclockwise-arrows:"
+        ]
       },
       {
         "base": [
@@ -26334,7 +26366,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":ok:"
+          ":ok-button:"
         ]
       },
       {
@@ -27235,7 +27267,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":black-square-small:"
+          ":black-square-medium:"
         ]
       },
       {
@@ -27256,7 +27288,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":black-square-medium:"
+          ":black-square-small:"
         ]
       },
       {
@@ -27266,7 +27298,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":white-square-small:"
+          ":button-black-square:"
         ]
       },
       {
@@ -27277,7 +27309,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":white-square-small:"
+          ":white-square-medium:"
         ]
       },
       {
@@ -27287,7 +27319,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":white-square-medium:"
+          ":white-square-medium-small:"
         ]
       },
       {
@@ -27298,7 +27330,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":white-square-medium:"
+          ":white-square-small:"
         ]
       },
       {
