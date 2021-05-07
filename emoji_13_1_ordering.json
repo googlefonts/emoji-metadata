@@ -1377,7 +1377,7 @@
         "emoticons": [],
         "shortcodes": [
           ":100:",
-          "one-hundred:",
+          ":one-hundred:",
           ":hundred:",
           ":points:"
         ]
@@ -1902,7 +1902,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":tooth"
+          ":tooth:"
         ]
       },
       {
@@ -16836,7 +16836,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":cityscape:"
+          ":sunset-cityscape:"
         ]
       },
       {
@@ -17864,7 +17864,7 @@
         "emoticons": [],
         "shortcodes": [
           ":peace:",
-          ":dove"
+          ":dove:"
         ]
       },
       {
@@ -20564,7 +20564,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":hut"
+          ":hut:"
         ]
       },
       {
@@ -20646,7 +20646,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":cityscape-at-dusk:"
+          ":sunset-cityscape:"
         ]
       },
       {
@@ -21765,7 +21765,7 @@
         "emoticons": [],
         "shortcodes": [
           ":piano:",
-          "':musical-keyboard:"
+          ":musical-keyboard:"
         ]
       },
       {
@@ -21845,7 +21845,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":accordion"
+          ":accordion:"
         ]
       },
       {
@@ -21855,7 +21855,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":microphone"
+          ":microphone:"
         ]
       },
       {
@@ -21907,7 +21907,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":radio:"
+        ]
       },
       {
         "base": [
@@ -21915,7 +21917,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":television:"
+        ]
       },
       {
         "base": [
@@ -21923,7 +21927,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":videocasette:"
+        ]
       },
       {
         "base": [
@@ -21931,7 +21937,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":video-camera:"
+        ]
       },
       {
         "base": [
@@ -21940,7 +21948,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":film-projector:"
+        ]
       },
       {
         "base": [
@@ -21948,7 +21958,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":movie-camera:"
+        ]
       },
       {
         "base": [
@@ -21957,7 +21969,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":film:"
+        ]
       },
       {
         "base": [
@@ -21965,7 +21979,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":clapper:"
+        ]
       },
       {
         "base": [
@@ -21973,7 +21989,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":performing-arts:"
+        ]
       },
       {
         "base": [
@@ -23022,7 +23040,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          "sandal:"
+          ":sandal:"
         ]
       },
       {
@@ -23256,7 +23274,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":hook:"
+          ":bucket:"
         ]
       },
       {
@@ -23266,7 +23284,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":wrench:"
+          ":hook:"
         ]
       },
       {
@@ -24040,7 +24058,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":twelve-o'clock:"
+          ":twelve-o-clock:"
         ]
       },
       {
@@ -24060,7 +24078,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":one-o\u2019clock:"
+          ":one-o-clock:"
         ]
       },
       {
@@ -24080,7 +24098,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":two-o\u2019clock:"
+          ":two-o-clock:"
         ]
       },
       {
@@ -24100,7 +24118,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":three-o\u2019clock:"
+          ":three-o-clock:"
         ]
       },
       {
@@ -24120,7 +24138,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":four-o\u2019clock:"
+          ":four-o-clock:"
         ]
       },
       {
@@ -24140,7 +24158,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":five-o\u2019clock:"
+          ":five-o-clock:"
         ]
       },
       {
@@ -24160,7 +24178,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":six-o\u2019clock:"
+          ":six-o-clock:"
         ]
       },
       {
@@ -24180,7 +24198,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":seven-o\u2019clock:"
+          ":seven-o-clock:"
         ]
       },
       {
@@ -24200,7 +24218,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":eight-o\u2019clock:"
+          ":eight-o-clock:"
         ]
       },
       {
@@ -24220,7 +24238,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":nine-o\u2019clock:"
+          ":nine-o-clock:"
         ]
       },
       {
@@ -24240,7 +24258,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":ten-o\u2019clock:"
+          ":ten-o-clock:"
         ]
       },
       {
@@ -24260,7 +24278,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":eleven-o\u2019clock:"
+          ":eleven-o-clock:"
         ]
       },
       {
@@ -24435,7 +24453,7 @@
         "emoticons": [],
         "shortcodes": [
           ":evil-eye:",
-          "nazar-amulet:"
+          ":nazar-amulet:"
         ]
       },
       {
@@ -25891,7 +25909,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          "::musical-score:",
+          ":musical-score:",
           ":treble-clef:"
         ]
       },
