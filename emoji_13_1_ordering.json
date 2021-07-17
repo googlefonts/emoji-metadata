@@ -32,7 +32,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "^_^"
+          "^-^"
         ],
         "shortcodes": [
           ":grin:"
@@ -44,7 +44,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "*^_^*"
+          "*^-^*"
         ],
         "shortcodes": [
           ":grinning:"
@@ -56,7 +56,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "X_D"
+          "X-D"
         ],
         "shortcodes": [
           ":laughing:"
@@ -68,7 +68,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "^_^;"
+          "^-^;"
         ],
         "shortcodes": [
           ":grin-sweat:"
@@ -104,7 +104,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ";_;"
+          ";-;"
         ],
         "shortcodes": [
           ":loudly-crying:"
@@ -177,7 +177,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "\u2665_\u2665"
+          "\u2665-\u2665"
         ],
         "shortcodes": [
           ":heart-eyes:"
@@ -189,7 +189,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "*_*"
+          "*-*"
         ],
         "shortcodes": [
           ":star-struck:"
@@ -350,7 +350,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "-_-"
+          "---"
         ],
         "shortcodes": [
           ":expressionless:"
@@ -362,7 +362,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "._."
+          ".-."
         ],
         "shortcodes": [
           ":pensive:"
@@ -422,7 +422,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "o_O"
+          "o-O"
         ],
         "shortcodes": [
           ":zany-face:"
@@ -446,7 +446,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ",:_l"
+          ",:-l"
         ],
         "shortcodes": [
           ":raised-eyebrow:"
@@ -470,7 +470,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "+_+"
+          "+-+"
         ],
         "shortcodes": [
           ":rolling-eyes:"
@@ -482,7 +482,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ">_>"
+          ">->"
         ],
         "shortcodes": [
           ":unamused:"
@@ -659,7 +659,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "D_:"
+          "D-:"
         ],
         "shortcodes": [
           ":scared:"
@@ -767,7 +767,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "\u2022_\u2022'"
+          "\u2022-\u2022'"
         ],
         "shortcodes": [
           ":concerned:"
@@ -889,7 +889,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "Z_Z"
+          "Z-Z"
         ],
         "shortcodes": [
           ":sleep:"
@@ -931,7 +931,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ">_>"
+          ">->"
         ],
         "shortcodes": [
           ":moon-face-new:"
@@ -943,7 +943,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "<_<"
+          "<-<"
         ],
         "shortcodes": [
           ":moon-face-full:"
@@ -1056,7 +1056,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "X_o"
+          "X-o"
         ],
         "shortcodes": [
           ":x-eyes:"
@@ -1202,7 +1202,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "\u0f3c ^_^ \u0f3d"
+          "\u0f3c ^-^ \u0f3d"
         ],
         "shortcodes": [
           ":poop:"
@@ -9846,7 +9846,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":health_worker:",
+          ":health-worker:",
           ":doctor:",
           ":nurse:"
         ]
@@ -10084,7 +10084,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":factory_worker:"
+          ":factory-worker:"
         ]
       },
       {
@@ -10674,8 +10674,8 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":office_worker:",
-          ":business_person:"
+          ":office-worker:",
+          ":business-person:"
         ]
       },
       {
@@ -10931,7 +10931,7 @@
         "emoticons": [],
         "shortcodes": [
           ":technologist:",
-          ":person_at_computer:"
+          ":person-at-computer:"
         ]
       },
       {
@@ -11469,7 +11469,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":gua_pi_mao:"
+          ":gua-pi-mao:"
         ]
       },
       {
@@ -14729,7 +14729,9 @@
           ]
         ],
         "emoticons": [],
-        "shortcodes": []
+        "shortcodes": [
+          ":kiss-woman-and-woman:"
+        ]
       },
       {
         "base": [
@@ -16299,6 +16301,16 @@
         "emoticons": [],
         "shortcodes": [
           ":maple-leaf:"
+        ]
+      },
+      {
+        "base": [
+          127812
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":mushroom:"
         ]
       },
       {
@@ -18527,16 +18539,6 @@
         "emoticons": [],
         "shortcodes": [
           ":hot-pepper:"
-        ]
-      },
-      {
-        "base": [
-          127812
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":mushroom:"
         ]
       },
       {
