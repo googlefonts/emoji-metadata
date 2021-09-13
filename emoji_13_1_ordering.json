@@ -3347,7 +3347,9 @@
           ":please:",
           ":pray:",
           ":hope:",
-          ":wish:"
+          ":wish:",
+          ":thank-you:",
+          ":high-five:"
         ]
       },
       {
@@ -16311,16 +16313,6 @@
       },
       {
         "base": [
-          127812
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":mushroom:"
-        ]
-      },
-      {
-        "base": [
           127806
         ],
         "alternates": [],
@@ -17985,8 +17977,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":turkey:",
-          ":thanksgiving:"
+          ":turkey:"
         ]
       },
       {
@@ -18545,6 +18536,16 @@
         "emoticons": [],
         "shortcodes": [
           ":hot-pepper:"
+        ]
+      },
+      {
+        "base": [
+          127812
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":mushroom:"
         ]
       },
       {
@@ -27120,7 +27121,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":heavy-plus-sign:"
+          ":heavy-minus-sign:"
         ]
       },
       {
