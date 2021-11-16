@@ -281,7 +281,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":P"
+          ":p"
         ],
         "shortcodes": [
           ":stuck-out-tongue:"
@@ -293,7 +293,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ">:P"
+          ":P"
         ],
         "shortcodes": [
           ":gross:"
@@ -725,7 +725,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":-/"
+          ":\\"
         ],
         "shortcodes": [
           ":slightly-frowning:"
@@ -877,9 +877,7 @@
           128542
         ],
         "alternates": [],
-        "emoticons": [
-          "://"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":sad:"
         ]
