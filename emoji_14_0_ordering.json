@@ -20,7 +20,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "=D"
+          ":-D"
         ],
         "shortcodes": [
           ":smile-with-big-eyes:"
@@ -56,7 +56,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "X-D"
+          "XD"
         ],
         "shortcodes": [
           ":laughing:"
@@ -281,7 +281,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":p"
+          ":P"
         ],
         "shortcodes": [
           ":stuck-out-tongue:"
@@ -293,7 +293,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":P"
+          ":-P"
         ],
         "shortcodes": [
           ":gross:"
@@ -725,7 +725,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":\\"
+          ":-/"
         ],
         "shortcodes": [
           ":slightly-frowning:"
@@ -2944,6 +2944,10 @@
         "alternates": [
           [
             129777
+          ],
+          [
+            129777,
+            127995
           ],
           [
             129777,
@@ -19258,7 +19262,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":peanuts:"
+          ":chestnut:"
         ]
       },
       {
@@ -19268,7 +19272,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":chestnut:"
+          ":peanuts:"
         ]
       },
       {
@@ -25752,7 +25756,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":excalmation-question-mark:",
+          ":exclamation-question-mark:",
           ":!?:"
         ]
       },
