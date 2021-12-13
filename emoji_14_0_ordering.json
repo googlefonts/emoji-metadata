@@ -352,9 +352,7 @@
           65039
         ],
         "alternates": [],
-        "emoticons": [
-          ":-)"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":warm-smile:"
         ]
@@ -25233,7 +25231,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":unlocked:"
+          ":locked:"
         ]
       },
       {
@@ -25243,7 +25241,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":locked:"
+          ":unlocked:"
         ]
       }
     ]
