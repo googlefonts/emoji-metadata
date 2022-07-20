@@ -64,7 +64,7 @@
       },
       {
         "value": ":-$",
-        "description": "embarassed face"
+        "description": "embarrassed face"
       },
       {
         "value": ":\u2011X",
@@ -72,7 +72,7 @@
       },
       {
         "value": ":-|",
-        "description": "disapointed face"
+        "description": "disappointed face"
       },
       {
         "value": ":-\\",
@@ -165,7 +165,7 @@
       },
       {
         "value": "(\u2737\u203f\u2737)",
-        "description": "smile with starey eyes"
+        "description": "smile with starry eyes"
       },
       {
         "value": "(\u25d4\u203f\u25d4)",
@@ -943,11 +943,11 @@
       },
       {
         "value": "\u250c(\u30fb\u3002\u30fb)\u2518\u266a",
-        "description": "whistlng and dancing"
+        "description": "whistling and dancing"
       },
       {
         "value": "\u266a\u30fd(\uff65\u02c7\u2200\u02c7\uff65\u309e)",
-        "description": "whistlng and dancing"
+        "description": "whistling and dancing"
       },
       {
         "value": "\u207d\u207d\u25dd( \u2022\u0bf0\u2022 )\u25dc\u207e\u207e",
@@ -1330,7 +1330,7 @@
     ]
   },
   {
-    "group": "Disaproving",
+    "group": "Disapproving",
     "emoticon": [
       {
         "value": "\u0ca0_\u0ca0",
@@ -1346,55 +1346,55 @@
       },
       {
         "value": "\u0ca0 \u0ce7 \u0ca0",
-        "description": "frown of disaproval"
+        "description": "frown of disapproval"
       },
       {
         "value": "\u0ca0\u0c97\u0ca0",
-        "description": "frown of disaproval"
+        "description": "frown of disapproval"
       },
       {
         "value": "\u0ca0,_\uff63\u0ca0",
-        "description": "single tear of disaproval"
+        "description": "single tear of disapproval"
       },
       {
         "value": "\u0ca0\u03c9\u0ca0",
-        "description": "denko of disaproval"
+        "description": "denko of disapproval"
       },
       {
         "value": "\u0ca0 \u035c\u0296 \u0ca0",
-        "description": "smile of disaproval"
+        "description": "smile of disapproval"
       },
       {
         "value": "\u0ca0\u25e1\u0ca0",
-        "description": "smile of disaproval"
+        "description": "smile of disapproval"
       },
       {
         "value": "\u0ca0\u2200\u0ca0",
-        "description": "smile of disaproval"
+        "description": "smile of disapproval"
       },
       {
         "value": "\u0ca0\ufe4f\u0ca0",
-        "description": "nervous look of disaproval"
+        "description": "nervous look of disapproval"
       },
       {
         "value": "\u0ca0\u203f\u0ca0",
-        "description": "smile of disaproval"
+        "description": "smile of disapproval"
       },
       {
         "value": "\u0ca0\u76ca\u0ca0",
-        "description": "look of angry disaproval"
+        "description": "look of angry disapproval"
       },
       {
         "value": "\u0ca0\u1d25\u0ca0",
-        "description": "disaproving bear"
+        "description": "disapproving bear"
       },
       {
         "value": "\u0295\u0ca0_\u0ca0\u0294",
-        "description": "disaproving bear"
+        "description": "disapproving bear"
       },
       {
         "value": "\u03a3(\u0ca0_\u0ca0)",
-        "description": "scratching head and disaproving"
+        "description": "scratching head and disapproving"
       },
       {
         "value": "(\u0ca0_\u0ca0)>\u2310\u25a0-\u25a0",
@@ -1406,7 +1406,7 @@
       },
       {
         "value": "[\u0332\u0305$\u0332\u0305(\u0332\u0305 \u0361\u0ca0_\u0ca0)\u0332\u0305$\u0332\u0305]",
-        "description": "money of disaproval"
+        "description": "money of disapproval"
       },
       {
         "value": "\u0ca0 \u0644\u035f \u0ca0",
@@ -1418,11 +1418,11 @@
       },
       {
         "value": "(\u0ca0_\u0ca0)\u2501\u2606\uff9f.*\uff65\uff61\uff9f",
-        "description": "disaproving magician"
+        "description": "disapproving magician"
       },
       {
         "value": "\u00af\\_\u0ca0_\u0ca0_/\u00af",
-        "description": "shruggie of disaproval"
+        "description": "shruggie of disapproval"
       },
       {
         "value": "\u0cb0_\u0cb0",
@@ -1430,15 +1430,15 @@
       },
       {
         "value": "\u0cb0\u256d\u256e\u0cb0",
-        "description": "frown of disaproval"
+        "description": "frown of disapproval"
       },
       {
         "value": "(\ub208\u2038\ub208)",
-        "description": "look of side eye disaproval"
+        "description": "look of side eye disapproval"
       },
       {
         "value": "(\u0628_\u0628)",
-        "description": "look of side eye disaproval"
+        "description": "look of side eye disapproval"
       },
       {
         "value": "\u0ca4_\u0ca4",
@@ -1454,11 +1454,11 @@
       },
       {
         "value": "\u0ca0\u0cbf_\u0ca0",
-        "description": "disaproving raised eyebrow"
+        "description": "disapproving raised eyebrow"
       },
       {
         "value": "\u0ca0\u0cbf\u30ee\u0ca0",
-        "description": "disaproving raised eyebrow"
+        "description": "disapproving raised eyebrow"
       }
     ]
   },
