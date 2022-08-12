@@ -1,0 +1,1961 @@
+[
+  {
+    "group": "Classic",
+    "emoticon": [
+      {
+        "value": ":-)",
+        "description": "smiley face"
+      },
+      {
+        "value": ":^)",
+        "description": "happy face"
+      },
+      {
+        "value": "^_^",
+        "description": "grinning eyes"
+      },
+      {
+        "value": "(^^)",
+        "description": "grinning eyes"
+      },
+      {
+        "value": ":,-)",
+        "description": "touched"
+      },
+      {
+        "value": "8-)",
+        "description": "bug eyed"
+      },
+      {
+        "value": "B-)",
+        "description": "cool face"
+      },
+      {
+        "value": "o:-)",
+        "description": "angel face"
+      },
+      {
+        "value": ":-D",
+        "description": "big grin"
+      },
+      {
+        "value": "}:\u2011)",
+        "description": "devilish"
+      },
+      {
+        "value": ";)",
+        "description": "wink"
+      },
+      {
+        "value": ";-)",
+        "description": "wink"
+      },
+      {
+        "value": ":-*",
+        "description": "kiss"
+      },
+      {
+        "value": ":-P",
+        "description": "tongue out"
+      },
+      {
+        "value": ":-!",
+        "description": "exclamation face"
+      },
+      {
+        "value": ":-$",
+        "description": "embarrassed face"
+      },
+      {
+        "value": ":\u2011X",
+        "description": "lips are sealed"
+      },
+      {
+        "value": ":-|",
+        "description": "disappointed face"
+      },
+      {
+        "value": ":-\\",
+        "description": "slant face"
+      },
+      {
+        "value": ":-[",
+        "description": "frown face"
+      },
+      {
+        "value": ":-(",
+        "description": "frown face"
+      },
+      {
+        "value": ":'(",
+        "description": "crying face"
+      },
+      {
+        "value": "(TT)",
+        "description": "crying face"
+      },
+      {
+        "value": ".\n=_=",
+        "description": "glare"
+      },
+      {
+        "value": ">.<",
+        "description": "skeptical face"
+      },
+      {
+        "value": "(+_+)",
+        "description": "Amazed face"
+      },
+      {
+        "value": "(*_*)",
+        "description": "Amazed face"
+      },
+      {
+        "value": "O_o",
+        "description": "shocked face"
+      },
+      {
+        "value": ":-O",
+        "description": "shocked face"
+      },
+      {
+        "value": "=-O",
+        "description": "shocked face"
+      },
+      {
+        "value": ":0",
+        "description": "shocked face"
+      },
+      {
+        "value": "*\\0/*",
+        "description": "cheerleader"
+      }
+    ]
+  },
+  {
+    "group": "Smiling",
+    "emoticon": [
+      {
+        "value": "(\u2022\u203f\u2022)",
+        "description": "smiley face"
+      },
+      {
+        "value": "(\u30fb\u2200\u30fb)",
+        "description": "smiling bird face"
+      },
+      {
+        "value": "\u25c9\u203f\u25c9",
+        "description": "smiley face"
+      },
+      {
+        "value": "\uff61\u25d5\u203f\u25d5\uff61",
+        "description": "smiley face"
+      },
+      {
+        "value": "(. \u275b \u1d17 \u275b.)",
+        "description": "smiley face"
+      },
+      {
+        "value": "(\u03b8\u203f\u03b8)",
+        "description": "wide eyed smiley face"
+      },
+      {
+        "value": "\u0298\u203f\u0298",
+        "description": "wide eyed smiley face"
+      },
+      {
+        "value": "(\u2737\u203f\u2737)",
+        "description": "smile with starry eyes"
+      },
+      {
+        "value": "(\u25d4\u203f\u25d4)",
+        "description": "eyes looking up smiley face"
+      },
+      {
+        "value": "(\u25d5\u1d17\u25d5\u273f)",
+        "description": "adorable face"
+      },
+      {
+        "value": "(\u0298\u1d17\u0298\u273f)",
+        "description": "excited adorable face"
+      },
+      {
+        "value": "(\u4eba \u2022\u0348\u1d17\u2022\u0348)",
+        "description": "hands up happy face"
+      },
+      {
+        "value": "(\u25cd\u2022\u1d17\u2022\u25cd)",
+        "description": "blushing happy face"
+      },
+      {
+        "value": "( \u2579\u25bd\u2579 )",
+        "description": "bird face"
+      },
+      {
+        "value": "(\u2267\u25bd\u2266)",
+        "description": "Grinning Squinting Face"
+      },
+      {
+        "value": "(\u2606\u25bd\u2606)",
+        "description": "star-eyed happy face"
+      },
+      {
+        "value": "(\u272f\u1d17\u272f)",
+        "description": "grinning face with star eyes"
+      },
+      {
+        "value": "\u0ca1 \u035c \u0296 \u0ca1",
+        "description": "flushed face"
+      },
+      {
+        "value": "(\u3181\u03c9\u3181)",
+        "description": "wide eyed smiling bear face"
+      },
+      {
+        "value": "<(\uffe3\ufe36\uffe3)>",
+        "description": "smug smile with arms behind head"
+      },
+      {
+        "value": "(*\u00b4\u03c9\uff40*)",
+        "description": "squinting smiling bear face"
+      },
+      {
+        "value": "( \ua20d\u1d17\ua20d)",
+        "description": "blushing face"
+      },
+      {
+        "value": "(\u273f^\u203f^)",
+        "description": "grinning face with flower"
+      },
+      {
+        "value": "^_________^",
+        "description": "big wide smile"
+      },
+      {
+        "value": "(\u25e1 \u03c9 \u25e1)",
+        "description": "grinning Denko"
+      },
+      {
+        "value": "( \u00b4\u25e1\u203f\u309d\u25e1`)",
+        "description": "gentle smile with closed eyes"
+      },
+      {
+        "value": "(\uff61\u2022\u0300\u1d17-)\u2727",
+        "description": "wink"
+      },
+      {
+        "value": "(\u25e0\u203f\u25d5)",
+        "description": "wink"
+      },
+      {
+        "value": "(\u25e0\u203f\u30fb)\u2014\u2606",
+        "description": "wink with magic"
+      },
+      {
+        "value": "\u2727\u25dd(\u2070\u25bf\u2070)\u25dc\u2727",
+        "description": "smiling and throwing sparkles"
+      },
+      {
+        "value": "(\u4eba*\u00b4\u2200\uff40)\uff61*\uff9f+",
+        "description": "hands up with sparkles"
+      },
+      {
+        "value": "(\uff89\u25d5\u30ee\u25d5)\uff89*.\u2727",
+        "description": "throwing sparkles"
+      }
+    ]
+  },
+  {
+    "group": "Loving",
+    "emoticon": [
+      {
+        "value": "(\u25cf\u2661\u2200\u2661)",
+        "description": "heart eyes"
+      },
+      {
+        "value": "(\u0e51\u2661\u2313\u2661\u0e51)",
+        "description": "heart eyes"
+      },
+      {
+        "value": "(\uff61\u2661\u203f\u2661\uff61)",
+        "description": "heart eyes"
+      },
+      {
+        "value": "(\u273f \u2661\u203f\u2661)",
+        "description": "heart eyes with flower"
+      },
+      {
+        "value": "(\u25cd\u2022\u1d17\u2022\u25cd)\u2764",
+        "description": "smiling with heart"
+      },
+      {
+        "value": "( \u25dc\u203f\u25dd )\u2661",
+        "description": "smiling with heart"
+      },
+      {
+        "value": "(\uff61\uff65\u03c9\uff65\uff61)\uff89\u2661",
+        "description": "Denko love"
+      },
+      {
+        "value": "(\u2022\u04e9\u2022)\u2661",
+        "description": "bird with heart"
+      },
+      {
+        "value": "(\u2661\u03c9\u2661 ) ~\u266a",
+        "description": "Denko heart eyes and whistling"
+      },
+      {
+        "value": "\ua4b0\u2445\u1d55\u0f1a\u1d55\ua4b1\u02d6\u2661",
+        "description": "gentle love"
+      },
+      {
+        "value": "\u2661\u02d6\ua4b0\u1d55\u0f1a\u1d55\u2445\ua4b1",
+        "description": "gentle love"
+      },
+      {
+        "value": "\u2661(\u04e6\uff56\u04e6\uff61)",
+        "description": "cute face"
+      },
+      {
+        "value": "\u0dc6\u2579 .\u032e \u2579\u0dc6",
+        "description": "cute face"
+      },
+      {
+        "value": "(\u00b4\u2229\uff61\u2022 \u1d55 \u2022\uff61\u2229`)",
+        "description": "hug love"
+      },
+      {
+        "value": "\u2661(> \u0a0a <)\u2661",
+        "description": "screaming love"
+      },
+      {
+        "value": "\u2665\u2563[-_-]\u2560\u2665",
+        "description": "sharing love"
+      },
+      {
+        "value": "(\u706c\u00ba\u203f\u00ba\u706c)\u2661",
+        "description": "shy love"
+      },
+      {
+        "value": "(\uff61\u30fb//\u03b5//\u30fb\uff61)",
+        "description": "blushing"
+      },
+      {
+        "value": "(\u3003\uff9f3\uff9f\u3003)",
+        "description": "blushing"
+      },
+      {
+        "value": "(\u00b4\u03b5\uff40 )",
+        "description": "kiss"
+      },
+      {
+        "value": "( \u02d8 \u00b3\u02d8)\u2665",
+        "description": "kiss"
+      },
+      {
+        "value": "(~\uffe3\u00b3\uffe3)~",
+        "description": "kissy with arms outreached"
+      },
+      {
+        "value": "(\u25d5\u0aa6\u25d5)",
+        "description": "kiss"
+      },
+      {
+        "value": "(\u0283\u01aa\uff3e3\uff3e\uff09",
+        "description": "very happy kissy face"
+      },
+      {
+        "value": "(*\uff3e3\uff3e)/\uff5e\u2661",
+        "description": "kiss"
+      },
+      {
+        "value": "(\u3063\u02d8\u0437(\u02d8\u2323\u02d8 )",
+        "description": "giving a kiss"
+      },
+      {
+        "value": "(\u25cf\u20193)\u2661(\u03b5`\u25cf)",
+        "description": "two people kissing"
+      },
+      {
+        "value": "(\u0e51\u02d9\u2765\u02d9\u0e51)",
+        "description": "kiss"
+      },
+      {
+        "value": "(/^-^(^ ^*)/",
+        "description": "two people kissing"
+      },
+      {
+        "value": "( \u02f6 \u275b \ua05e \u275b \u02f6 )",
+        "description": "two people kissing"
+      },
+      {
+        "value": "(*\u02d8\ufe36\u02d8*).\uff61*\u2661",
+        "description": "smiley face with love and sparkles"
+      },
+      {
+        "value": "(\u25cd\u2022\u1d17\u2022\u25cd)\u2727*\u3002",
+        "description": "smiley face with love and sparkles"
+      }
+    ]
+  },
+  {
+    "group": "Hugging",
+    "emoticon": [
+      {
+        "value": "\u2282((\u30fb\u25bd\u30fb))\u2283",
+        "description": "big wide hug"
+      },
+      {
+        "value": "(\u3065\uff61\u25d5\u203f\u203f\u25d5\uff61)\u3065",
+        "description": "hug with big smile"
+      },
+      {
+        "value": "\u0f3c \u3064 \u25d5\u203f\u25d5 \u0f3d\u3064",
+        "description": "happy hug"
+      },
+      {
+        "value": "(\u3065\uffe3 \u00b3\uffe3)\u3065",
+        "description": "kissy hug"
+      },
+      {
+        "value": "(\u2283\uff61\u2022\u0301\u203f\u2022\u0300\uff61)\u2283",
+        "description": "hug"
+      },
+      {
+        "value": "\u0295\u3063\u2022\u1d25\u2022\u0294\u3063",
+        "description": "bear hug"
+      },
+      {
+        "value": "(o\u00b4\uff65_\uff65)\u3063",
+        "description": "hug"
+      },
+      {
+        "value": "(\u2283 \u2022 \u0296\u032b \u2022 )\u2283",
+        "description": "hug"
+      },
+      {
+        "value": "(\u3064\u2267\u25bd\u2266)\u3064",
+        "description": "hug"
+      },
+      {
+        "value": "(\u3064\u2727\u03c9\u2727)\u3064",
+        "description": "star-eyed hug"
+      },
+      {
+        "value": "(\u3063.\u275b \u1d17 \u275b.)\u3063",
+        "description": "happy hug"
+      },
+      {
+        "value": "\uff5e(\u3064\u02c6\u0414\u02c6)\u3064\uff61\u2606",
+        "description": "running hug"
+      },
+      {
+        "value": "\u10da(\u00b4 \u2765 `\u10da)",
+        "description": "kissy hug"
+      },
+      {
+        "value": "\u2282(\u2022\u203f\u2022\u2282 )*.\u2727",
+        "description": "hug"
+      },
+      {
+        "value": "\u2282(\u00b4\uff65\u25e1\uff65\u2282 )\u2218\u02da\u02f3\u00b0",
+        "description": "hug"
+      },
+      {
+        "value": "\u2282(\uff65\u03c9\uff65*\u2282)",
+        "description": "Denko hug"
+      },
+      {
+        "value": "\u2282(\u30fb\ufe4f\u30fb\u2282)",
+        "description": "hug"
+      },
+      {
+        "value": "\u2282(\u30fb\u25bd\u30fb\u2282)",
+        "description": "hug"
+      },
+      {
+        "value": "\u2282(\u25c9\u203f\u25c9)\u3064",
+        "description": "big wide hug"
+      },
+      {
+        "value": "o((*^\u25bd^*))o",
+        "description": "big wide hug"
+      },
+      {
+        "value": "\u2570(*\u00b4\ufe36`*)\u256f",
+        "description": "big wide hug"
+      },
+      {
+        "value": "\u2570(\uff3e3\uff3e)\u256f",
+        "description": "kiss and a hug"
+      },
+      {
+        "value": "\u2570(\u2e1d\u2e1d\u2e1d\u00b4\ua4b3`\u2e1d\u2e1d\u2e1d)\u256f",
+        "description": "blushing hug"
+      },
+      {
+        "value": "\u2661(\u02c3\u0348 \u0aa6 \u02c2\u0348 \u0f36 )",
+        "description": "kiss and a hug"
+      },
+      {
+        "value": "\u30fe(\u02d9\u2765\u02d9)\uff89",
+        "description": "kiss and a hug"
+      },
+      {
+        "value": "\uff3c(^o^)\uff0f",
+        "description": "big hug"
+      },
+      {
+        "value": "\u10da(\u30fb\ufe4f\u30fb\u10da)",
+        "description": "nervous hug"
+      },
+      {
+        "value": "\u10da(\u25d5\u03c9\u25d5\u10da)",
+        "description": "Denko hug"
+      },
+      {
+        "value": "(/\uff65\u03c9\uff65(-\u03c9-)",
+        "description": "Hugging a Denko"
+      },
+      {
+        "value": "(\uff65\u03c9\uff65)\u3064\u2282(\uff65\u03c9\uff65)",
+        "description": "two Denkos hugging"
+      },
+      {
+        "value": "( T_T)\uff3c(^-^ )",
+        "description": "comfort hug"
+      },
+      {
+        "value": "(\uff65\u2013\uff65) \\(\uff65\u25e1\uff65)/",
+        "description": "comfort hug"
+      }
+    ]
+  },
+  {
+    "group": "Flexing",
+    "emoticon": [
+      {
+        "value": "\u1559(\u21c0\u2038\u21bc\u2036)\u1557",
+        "description": "flexing face"
+      },
+      {
+        "value": "\u1559(\uff20\u00b0\u25bd\u00b0\uff20)\u1557",
+        "description": "happy flexing"
+      },
+      {
+        "value": "\u1559(  \u2022 \u203f \u2022  )\u1557",
+        "description": "happy flexing"
+      },
+      {
+        "value": "\u0b67(\ufe52\ufe20\u1d17\ufe52\ufe21)\u0b68",
+        "description": "happy flexing"
+      },
+      {
+        "value": "\u1559 (\u00b0 ~\u035c\u0296~ \u00b0) \u1557",
+        "description": "flexing face"
+      },
+      {
+        "value": "\u1559( \u0361\u25c9 \u035c \u0296 \u0361\u25c9)\u1557",
+        "description": "happy flexing"
+      },
+      {
+        "value": "\u1555( \u1415 )\u1557",
+        "description": "happy gary"
+      },
+      {
+        "value": "\u0b67(\uff3e \u3030 \uff3e)\u0b68",
+        "description": "happy flexing"
+      },
+      {
+        "value": "\u1559( \u00a4 \u3030 \u00a4 )\u1557",
+        "description": "teary eyed flex"
+      },
+      {
+        "value": "\u1559( ~ . ~ )\u1557",
+        "description": "happy flexing"
+      },
+      {
+        "value": "\u1559( : \u02d8 \u2227 \u02d8 : )\u1557",
+        "description": "smug flex"
+      },
+      {
+        "value": "\u1559[\uff65\u06dd\uff65]\u1557",
+        "description": "screaming flex"
+      },
+      {
+        "value": "\u1566( \u22a1 \u76ca \u22a1 )\u1564",
+        "description": "angry flex"
+      },
+      {
+        "value": "\u1559(\u0ca0 \u0a0a \u0ca0)\u1557",
+        "description": "yelling flex"
+      },
+      {
+        "value": "\u1559(\u2609\u0a0a\u2609)\u1557",
+        "description": "wide eyed flex"
+      },
+      {
+        "value": "\u0b67( \u0ca0 \u0414 \u0ca0 )\u0b68",
+        "description": "disapproval flexing face"
+      },
+      {
+        "value": "\u1566\u2299\u0df4\u2299\u1564",
+        "description": "flexing face"
+      },
+      {
+        "value": "\u1566(\u00f2_\u00f3\u02c7)\u1564",
+        "description": "flexing face"
+      },
+      {
+        "value": "\u1566(\u0ca0_\u0ca0)\u1564",
+        "description": "disapproval flexing face"
+      },
+      {
+        "value": "\u1566[ \u25d1 \u25a1 \u25d1 ]\u1564",
+        "description": "happy flexing"
+      },
+      {
+        "value": "\u1566\u0f3c ~ \u2022\u0301 \u2092 \u2022\u0300 ~ \u0f3d\u1564",
+        "description": "surprise flex"
+      },
+      {
+        "value": "\u0b67| \u0361\u1d54 \ufe4f \u0361\u1d54 |\u0b68",
+        "description": "nervous flex"
+      },
+      {
+        "value": "\u1559 (\u00b0 ~ \u00b0 ~)",
+        "description": "left flex"
+      },
+      {
+        "value": "( \u035d\u00b0 \u035c\u0296\u0361\u00b0)\u1564",
+        "description": "right flex"
+      },
+      {
+        "value": "\u1559( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\u1557",
+        "description": "flexing lenny"
+      },
+      {
+        "value": "\u1559(\u0361\u00b0\u203f \u0361\u00b0)\u1557",
+        "description": "flexing lenny"
+      },
+      {
+        "value": "\u1566\u0f3c\u0e88\u0644\u035c\u0e88\u0f3d\u1564",
+        "description": "donger flex"
+      },
+      {
+        "value": "\u0f3c\u1557\u0e88\u0644\u035c\u0e88\u0f3d\u1557",
+        "description": "donger flex"
+      },
+      {
+        "value": "\u1559\u0f3c\u25d5 \u1d25 \u25d5\u0f3d\u1557",
+        "description": "flexing bear"
+      },
+      {
+        "value": "\u1566\u0295 \u2022\u1d25\u2022\u0294\u1564",
+        "description": "flexing bear"
+      },
+      {
+        "value": "\u1566\u1d98 \u1d52\u3268\u1d52\u1d85\u1564",
+        "description": "flexing bear"
+      },
+      {
+        "value": "\u1566\u0f3c\u2729\u0644\u035c\u2729\u0f3d\u1564",
+        "description": "star eyed flex"
+      }
+    ]
+  },
+  {
+    "group": "Animals",
+    "emoticon": [
+      {
+        "value": "V\u25cf\u1d25\u25cfV",
+        "description": "dog"
+      },
+      {
+        "value": "\u25bc\u30fb\u1d25\u30fb\u25bc",
+        "description": "dog"
+      },
+      {
+        "value": "U \u00b4\ua4c3 ` U",
+        "description": "dog"
+      },
+      {
+        "value": "(\u25e0\u1d25\u25d5\u028b)",
+        "description": "winking dog"
+      },
+      {
+        "value": "U^\uff6a^U",
+        "description": "happy eyes dog"
+      },
+      {
+        "value": "( \u0361\u00b0\u1d25 \u0361\u00b0 \u028b)",
+        "description": "lenny dog"
+      },
+      {
+        "value": "\u25d6\u2686\u1d25\u2686\u25d7",
+        "description": "animal looking shady"
+      },
+      {
+        "value": "/\u1420\uff61\ua788\uff61\u141f\\",
+        "description": "cat"
+      },
+      {
+        "value": "\u0e05^\u2022\ufecc\u2022^\u0e05",
+        "description": "cat with paws up"
+      },
+      {
+        "value": "(=^\uff65\uff6a\uff65^=)",
+        "description": "cat"
+      },
+      {
+        "value": "(=\uff40\u30a7\u00b4=)",
+        "description": "cat"
+      },
+      {
+        "value": "(\uffe3(\uff74)\uffe3)\uff89",
+        "description": "bear waving"
+      },
+      {
+        "value": "(*\uffe3(\uff74)\uffe3*)",
+        "description": "neutral bear face"
+      },
+      {
+        "value": "(\u2267(\uff74)\u2266 )",
+        "description": "bear"
+      },
+      {
+        "value": "(\u00b4(\uff6a)\uff40\uff09",
+        "description": "bear"
+      },
+      {
+        "value": "(\u30fb(\uff6a)\u30fb\uff09",
+        "description": "bear"
+      },
+      {
+        "value": "\u0295 \u00ba \u1d25 \u00ba\u0294",
+        "description": "bear"
+      },
+      {
+        "value": "\u0295\u00b7\u1d25\u00b7\u0294",
+        "description": "bear"
+      },
+      {
+        "value": "\u0295 \ua20d\u1d25\ua20d\u0294",
+        "description": "blushing bear"
+      },
+      {
+        "value": "\u0295\u00b4\u2022\u1d25\u2022`\u0294",
+        "description": "concerned bear"
+      },
+      {
+        "value": "(\u272a\u3268\u272a)",
+        "description": "bear"
+      },
+      {
+        "value": "(\u25d5\u1d25\u25d5)",
+        "description": "bear"
+      },
+      {
+        "value": "(\u1d54\u1d25\u1d54)",
+        "description": "seal"
+      },
+      {
+        "value": "\u13ca\u02d8 \ua20a \u02d8 \u13ca",
+        "description": "ram"
+      },
+      {
+        "value": "(\u00b4\u30fb(oo)\u30fb\uff40)",
+        "description": "pig"
+      },
+      {
+        "value": "(^._.^)\uff89",
+        "description": "waving bat"
+      },
+      {
+        "value": "\uff5e>`)\uff5e\uff5e\uff5e",
+        "description": "snake"
+      },
+      {
+        "value": "\u2026\u161b\u2050\u0324\u1550\u1437",
+        "description": "mouse"
+      },
+      {
+        "value": "\u304f\u30b3:\u5f61",
+        "description": "squid"
+      },
+      {
+        "value": "-\u1112\u1d25\u1112-",
+        "description": "bear"
+      },
+      {
+        "value": "/\u2572/\\\u256d(\u2022\u203f\u2022)\u256e/\\\u2571\\",
+        "description": "spider"
+      },
+      {
+        "value": "\u01b8\u0335\u0321\u04dc\u0335\u0328\u0304\u01b7",
+        "description": "butterfly"
+      }
+    ]
+  },
+  {
+    "group": "Surprising",
+    "emoticon": [
+      {
+        "value": "(\uff65o\uff65;)",
+        "description": "surprised face"
+      },
+      {
+        "value": "(\u30fbo\u30fb)",
+        "description": "surprised face"
+      },
+      {
+        "value": "(\u309co\u309c;",
+        "description": "surprised face"
+      },
+      {
+        "value": "w(\u00b0\uff4f\u00b0)w",
+        "description": "wow face"
+      },
+      {
+        "value": "(\u2609\uff61\u2609)!",
+        "description": "surprised face"
+      },
+      {
+        "value": "(@_@)",
+        "description": "surprised face"
+      },
+      {
+        "value": "\u30fd((\u25ce\u0434\u25ce))\u309d",
+        "description": "really surprised face"
+      },
+      {
+        "value": "\uff3c(\u00b0o\u00b0)\uff0f",
+        "description": "surprised face with hands raised"
+      },
+      {
+        "value": "\u30fd(\uff61\u25d5o\u25d5\uff61)\uff89.",
+        "description": "surprised face with hands raised"
+      },
+      {
+        "value": "\uff3c(\u25ceo\u25ce)\uff0f",
+        "description": "surprised face with big eyes and raised hands"
+      },
+      {
+        "value": "\u30fe(*\u2019\uff2f\u2019*)/",
+        "description": "surprised face with hands raised"
+      },
+      {
+        "value": "\u2727\\(>o<)\uff89\u2727",
+        "description": "squinting eyes with arms in air"
+      },
+      {
+        "value": "(\uff89*0*)\uff89",
+        "description": "surprised face with arms in air"
+      },
+      {
+        "value": "\u30fd\u0f3c\u2070o\u2070\uff1b\u0f3d\u30ce",
+        "description": "surprised face with arms in air"
+      },
+      {
+        "value": "\u22cb\u273f \u2070 o \u2070 \u273f\u22cc",
+        "description": "cute surprised face with hands raised"
+      },
+      {
+        "value": "\u0449(\u309c\u30ed\u309c\u0449)",
+        "description": "surprised face with arms up"
+      },
+      {
+        "value": "(\uff89\uff9f0\uff9f)\uff89~",
+        "description": "surprised face with arms up"
+      },
+      {
+        "value": "\u10da(^o^\u10da)",
+        "description": "surprised face with arms up"
+      },
+      {
+        "value": "(\uff9f\u03bf\uff9f\u4eba))",
+        "description": "surprised face with clenched hands"
+      },
+      {
+        "value": "\u2299.\u2609",
+        "description": "surprised face"
+      },
+      {
+        "value": "(\u2449\u2299\u020f\u2299)",
+        "description": "surprised face"
+      },
+      {
+        "value": "(\u0298\u15e9\u0298\u2019)",
+        "description": "surprised wide-eyed face"
+      },
+      {
+        "value": "(\u2018\u25c9\u2313\u25c9\u2019)",
+        "description": "surprised face"
+      },
+      {
+        "value": "\u2044(\u2044 \u2044\u2022\u2044-\u2044\u2022\u2044 \u2044)\u2044",
+        "description": "bashful face"
+      },
+      {
+        "value": "(\uff61\u262c\uff10\u262c\uff61)",
+        "description": "shocked face"
+      },
+      {
+        "value": "(\u00b4\u2299\u03c9\u2299`)\uff01",
+        "description": "surprised face"
+      },
+      {
+        "value": "(((;\ua3ff_\ua3ff;)))",
+        "description": "surprised face"
+      },
+      {
+        "value": "(\u25cf__\u25cf)",
+        "description": "neutral mouth with big eyes"
+      },
+      {
+        "value": "(\u273f\u2609\uff61\u2609)",
+        "description": "cute surprised face"
+      },
+      {
+        "value": "(\uff1e0\uff1c\uff1b)",
+        "description": "closed eyes open mouth"
+      },
+      {
+        "value": "\u0f3c\u2070o\u2070\uff1b\u0f3d",
+        "description": "surprised face"
+      },
+      {
+        "value": "(\u256c\u207d\u207d \u2070 \u207e\u207e \u0414 \u207d\u207d \u2070 \u207e\u207e)",
+        "description": "surprised face with sweat"
+      }
+    ]
+  },
+  {
+    "group": "Dancing",
+    "emoticon": [
+      {
+        "value": "\u266a\uff5e(\u00b4\u03b5\uff40 )",
+        "description": "whistling"
+      },
+      {
+        "value": "(\uff3e3\uff3e\u266a",
+        "description": "grinning eyes and whistling"
+      },
+      {
+        "value": "\u250c(\u30fb\u3002\u30fb)\u2518\u266a",
+        "description": "whistling and dancing"
+      },
+      {
+        "value": "\u266a\u30fd(\uff65\u02c7\u2200\u02c7\uff65\u309e)",
+        "description": "whistling and dancing"
+      },
+      {
+        "value": "\u207d\u207d\u25dd( \u2022\u0bf0\u2022 )\u25dc\u207e\u207e",
+        "description": "dancing"
+      },
+      {
+        "value": "\u208d\u208d\u25de( \u2022\u0bf0\u2022 )\u25df\u208e\u208e",
+        "description": "dancing"
+      },
+      {
+        "value": "\u207d\u207d\u0b18( \u02ca\u1d55\u02cb )\u0b13\u207e\u207e",
+        "description": "dancing"
+      },
+      {
+        "value": "\u208d\u208d \u25dd(\u3000\uff9f\u2200 \uff9f )\u25df \u207e\u207e",
+        "description": "dancing"
+      },
+      {
+        "value": "\\(\u03cb)/\u2669",
+        "description": "dancing"
+      },
+      {
+        "value": "\u266a\u250c|\u2235|\u2518\u266a",
+        "description": "dancing"
+      },
+      {
+        "value": "\u2514|\u2235|\u2510\u266a",
+        "description": "dancing"
+      },
+      {
+        "value": "\u266a \\(^\u03c9^\\ )",
+        "description": "dancing with grinning eyes"
+      },
+      {
+        "value": "( /^\u03c9^)/\u266a\u266a",
+        "description": "dancing with grinning eyes"
+      },
+      {
+        "value": "(\uff3e\u2207\uff3e)\uff89\u266a",
+        "description": "dancing with grinning eyes"
+      },
+      {
+        "value": "\u30fe( \u035d\u00b0 \u035c\u0296\u0361\u00b0)\u30ce\u266a",
+        "description": "dancing with grin"
+      },
+      {
+        "value": "\\(\u0e51\u2579\u25e1\u2579\u0e51)\uff89\u266c",
+        "description": "dancing with grin"
+      },
+      {
+        "value": "(*\uff89\u30fb\u03c9\u30fb)\uff89\u266b",
+        "description": "dancing with grin"
+      },
+      {
+        "value": "\u250c|o^\u25bd^o|\u2518\u266a",
+        "description": "dancing and laughing"
+      },
+      {
+        "value": "\u250f(\uff3e0\uff3e)\u251b",
+        "description": "dancing and laughing"
+      },
+      {
+        "value": "\u250c(\u2605\uff4f\u2606)\u2518",
+        "description": "dancing with star eyes"
+      },
+      {
+        "value": "\u2514( \uff3e\u03c9\uff3e)\u300d",
+        "description": "dancing with grinning eyes"
+      },
+      {
+        "value": "(\uff62`\uff65\u03c9\uff65)\uff62",
+        "description": "dancing bear"
+      },
+      {
+        "value": "\u266a(\u250c\u30fb\u3002\u30fb)\u250c",
+        "description": "dancing"
+      },
+      {
+        "value": "\u30d8(\uffe3\u03c9\uffe3\u30d8)",
+        "description": "dancing"
+      },
+      {
+        "value": "\u01aa(\u203e.\u203e\u201c)\u2510",
+        "description": "dancing"
+      },
+      {
+        "value": "\u01aa(\u02d8\u2323\u02d8)\u0283",
+        "description": "dancing"
+      },
+      {
+        "value": "(\u30ce^_^)\u30ce",
+        "description": "dancing"
+      },
+      {
+        "value": "\uff3c(\uff9f\uff70\uff9f\uff3c)",
+        "description": "dancing"
+      },
+      {
+        "value": "\u30fd(*\uff9f\uff70\uff9f*)\uff89",
+        "description": "dancing"
+      },
+      {
+        "value": "\u30fe(\uff65\u03c9\uff65*)\uff89",
+        "description": "dancing"
+      },
+      {
+        "value": "(~\u203e\u25bf\u203e)~",
+        "description": "dancing"
+      },
+      {
+        "value": "\u301c(\ua4aa\ua4b3\ua4aa)\u301c",
+        "description": "dancing"
+      }
+    ]
+  },
+  {
+    "group": "Shrugging",
+    "emoticon": [
+      {
+        "value": "\u00af\\_(\u30c4)_/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\_\u0f3c \u2022\u0301 \u035c\u0296 \u2022\u0300 \u0f3d_/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\_( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)_/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\(\u00b0_o)/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u2510( \u2235 )\u250c",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\_\u0f3c\u1d3c\u0644\u035c\u1d3c\u0f3d_/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u256e(. \u275b \u1d17 \u275b.)\u256d",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u4e41\u0f3c\u262f\u203f\u262f\u273f\u0f3d\u310f",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\(\u25c9\u203f\u25c9)/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\_\u0298\u203f\u0298_/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\_\u0f3c \u0ca5 \u203f \u0ca5 \u0f3d_/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u256e(\uff3e\u25bd\uff3e)\u256d",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u4e41[ \u25d5 \u1d25 \u25d5 ]\u310f",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u4e41[\u14c0\u02f5\u25be\u02f5\u14c2]\u310f",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u2510(\u00b4(\u30a8)\uff40)\u250c",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u2510( \u02d8_\u02d8)\u250c",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u2510(\u00b4\u30fc\uff40)\u250c",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u256e(\u256f_\u2570)\u256d",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\_(\u2299_\u0296\u2299)_/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u4e41( \u2070\u0361 \u0139\u032f \u2070\u0361 ) \u310f",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\_( \u0360\u00b0 \u035f\u0296 \u00b0\u0360 )_/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u4e41( \u2022_\u2022 )\u310f",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u4e41| \uff65 \u3030 \uff65 |\u310f",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u2510(\u2018\uff5e`;)\u250c",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u2510(\uffe3\u30d8\uffe3)\u250c",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u2510(\u00b4\u0434`)\u250c",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u4e41( . \u0d30 \u0296\u032f \u0d30 . )\u310f",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u4e41 \u02d8 o \u02d8 \u310f",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u4e41\u0295 \u2022\u0300 \u06dd \u2022\u0301 \u0294\u310f",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\_\u3033 \u2022\u0300 o \u2022\u0301 \u3035_/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u00af\\_(\u262f\u0df4\u262f)_/\u00af",
+        "description": "shruggie"
+      },
+      {
+        "value": "\u4e41\u2551 \u02d9 \u76ca \u02d9 \u2551\u310f",
+        "description": "shruggie"
+      }
+    ]
+  },
+  {
+    "group": "Table Flipping",
+    "emoticon": [
+      {
+        "value": "(\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u30ce\uff40\u0414\u00b4)\u30ce\u5f61\u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u251b\u25c9\u0414\u25c9)\u251b\u5f61\u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\uff89\u2267\u2207\u2266)\uff89 \uff90 \u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u30ce\u0ca0\u76ca\u0ca0)\u30ce\u5f61\u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u256f\u0cb0 ~ \u0cb0)\u256f\ufe35 \u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u251b\u0cb8_\u0cb8)\u251b\u5f61\u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\uff89\u00b4\uff65\u03c9\uff65)\uff89 \uff90 \u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u30ce\u0ca5,_\uff63\u0ca5)\u30ce\u5f61\u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u251b\u2727\u0414\u2727))\u251b\u5f61\u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "\u253b\u253b\ufe35\u00af\\(\u30c4)/\u00af\ufe35\u253b\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "\u253b\u253b\ufe35\u30fd(`\u0414\u00b4)\uff89\ufe35\u253b\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(/\u00af\u25e1 \u203f \u25e1)/\u00af ~ \u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u30ce\uff40\u2312\u00b4)\u30ce\u252b\uff1a\u30fb\u253b\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\uff89\u00b0_o)\uff89\u2312\u252b \u253b \u2523 \u2533",
+        "description": "table flip"
+      },
+      {
+        "value": "\u253b\u2501\u253b\u30df\uff3c(\u2267\uff9b\u2266\uff3c)",
+        "description": "table flip"
+      },
+      {
+        "value": "\u253b\u2501\u253b\ufe35\u2514(\u055e\u25bd\u055e \u2514)",
+        "description": "table flip"
+      },
+      {
+        "value": "\u253b\u2501\u253b\ufe35\u2514(\u00b4_\uff40\u2514)",
+        "description": "table flip"
+      },
+      {
+        "value": "\u253b\u2501\u253b \u30d8\u2570( \u2022\u0300\u03b5\u2022\u0301 \u2570)",
+        "description": "table flip"
+      },
+      {
+        "value": "\u2500=\u2261\u03a3(\u256f\u00b0\u25a1\u00b0)\u256f\ufe35\u253b\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u30ce\u2022\u0300 o \u2022\u0301 )\u30ce ~ \u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(-_- )\uff89\u2312\u252b \u253b \u2523 \u2533",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u30ce\uffe3\u76bf\uffe3)\u30ce \u2312== \u252b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u251b\u274d\u1d25\u274d)\u251b\u5f61\u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "(\u30ceT\uff3fT)\u30ce \uff3e\u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "\u0295\u30ce\u2022\u1d25\u2022\u0294\u30ce \ufe35 \u253b\u2501\u253b",
+        "description": "table flip"
+      },
+      {
+        "value": "\u252c\u2500\u252c\u30ce( \u0361\u00b0 \u035c\u0296 \u0361\u00b0\u30ce)",
+        "description": "places table back"
+      },
+      {
+        "value": "\u252c\u2500\u252c\u30ce(\u0ca0_\u0ca0\u30ce)",
+        "description": "places table back"
+      },
+      {
+        "value": "\u252c\u2500\u252c\u30ce( \u00ba _ \u00ba\u30ce)",
+        "description": "places table back"
+      },
+      {
+        "value": "\u252c\u2500\u2500\u252c\u25e1\uff89(\u00b0 -\u00b0\uff89)",
+        "description": "places table back"
+      },
+      {
+        "value": "(\u30d8\uff65_\uff65)\u30d8\u2533\u2501\u2533",
+        "description": "places table back"
+      },
+      {
+        "value": "\u252c\u2500\u2500\u252c \u00af\\_(\u30c4)",
+        "description": "places table back"
+      }
+    ]
+  },
+  {
+    "group": "Disapproving",
+    "emoticon": [
+      {
+        "value": "\u0ca0_\u0ca0",
+        "description": "look of disapproval"
+      },
+      {
+        "value": "\u0ca0_\u0296\u0ca0",
+        "description": "look of disapproval"
+      },
+      {
+        "value": "\u0ca0\ufe35\u0ca0",
+        "description": "Disapproving frown"
+      },
+      {
+        "value": "\u0ca0 \u0ce7 \u0ca0",
+        "description": "frown of disapproval"
+      },
+      {
+        "value": "\u0ca0\u0c97\u0ca0",
+        "description": "frown of disapproval"
+      },
+      {
+        "value": "\u0ca0,_\uff63\u0ca0",
+        "description": "single tear of disapproval"
+      },
+      {
+        "value": "\u0ca0\u03c9\u0ca0",
+        "description": "denko of disapproval"
+      },
+      {
+        "value": "\u0ca0 \u035c\u0296 \u0ca0",
+        "description": "smile of disapproval"
+      },
+      {
+        "value": "\u0ca0\u25e1\u0ca0",
+        "description": "smile of disapproval"
+      },
+      {
+        "value": "\u0ca0\u2200\u0ca0",
+        "description": "smile of disapproval"
+      },
+      {
+        "value": "\u0ca0\ufe4f\u0ca0",
+        "description": "nervous look of disapproval"
+      },
+      {
+        "value": "\u0ca0\u203f\u0ca0",
+        "description": "smile of disapproval"
+      },
+      {
+        "value": "\u0ca0\u76ca\u0ca0",
+        "description": "look of angry disapproval"
+      },
+      {
+        "value": "\u0ca0\u1d25\u0ca0",
+        "description": "disapproving bear"
+      },
+      {
+        "value": "\u0295\u0ca0_\u0ca0\u0294",
+        "description": "disapproving bear"
+      },
+      {
+        "value": "\u03a3(\u0ca0_\u0ca0)",
+        "description": "scratching head and disapproving"
+      },
+      {
+        "value": "(\u0ca0_\u0ca0)>\u2310\u25a0-\u25a0",
+        "description": "Puts on Sunglasses"
+      },
+      {
+        "value": "(\u2310\u25a0-\u25a0)",
+        "description": "Wearing sunglasses"
+      },
+      {
+        "value": "[\u0332\u0305$\u0332\u0305(\u0332\u0305 \u0361\u0ca0_\u0ca0)\u0332\u0305$\u0332\u0305]",
+        "description": "money of disapproval"
+      },
+      {
+        "value": "\u0ca0 \u0644\u035f \u0ca0",
+        "description": "deadpan face"
+      },
+      {
+        "value": "(\u30ce\u0ca0\u76ca\u0ca0)\u30ce",
+        "description": "look of what do you want"
+      },
+      {
+        "value": "(\u0ca0_\u0ca0)\u2501\u2606\uff9f.*\uff65\uff61\uff9f",
+        "description": "disapproving magician"
+      },
+      {
+        "value": "\u00af\\_\u0ca0_\u0ca0_/\u00af",
+        "description": "shruggie of disapproval"
+      },
+      {
+        "value": "\u0cb0_\u0cb0",
+        "description": "look of disapproval"
+      },
+      {
+        "value": "\u0cb0\u256d\u256e\u0cb0",
+        "description": "frown of disapproval"
+      },
+      {
+        "value": "(\ub208\u2038\ub208)",
+        "description": "look of side eye disapproval"
+      },
+      {
+        "value": "(\u0628_\u0628)",
+        "description": "look of side eye disapproval"
+      },
+      {
+        "value": "\u0ca4_\u0ca4",
+        "description": "look of disapproval"
+      },
+      {
+        "value": "\u0ca4_\u0296\u0ca4",
+        "description": "look of disapproval"
+      },
+      {
+        "value": "\u0ca0\u0cbf_\u0ca0\u0cbf",
+        "description": "look of disapproval"
+      },
+      {
+        "value": "\u0ca0\u0cbf_\u0ca0",
+        "description": "disapproving raised eyebrow"
+      },
+      {
+        "value": "\u0ca0\u0cbf\u30ee\u0ca0",
+        "description": "disapproving raised eyebrow"
+      }
+    ]
+  },
+  {
+    "group": "Crying",
+    "emoticon": [
+      {
+        "value": "\u2022\u0301  \u203f ,\u2022\u0300",
+        "description": "single tear and gentle smile"
+      },
+      {
+        "value": "\u0ca5\u203f\u0ca5",
+        "description": "crying and smiling"
+      },
+      {
+        "value": "\u0295\u00b4\u2022 \u1d25\u2022\u0325`\u0294",
+        "description": "bear with single tear and gentle smile"
+      },
+      {
+        "value": "\u0f0e\u0eb6\u203f\u0f0e\u0eb6",
+        "description": "loudly crying face"
+      },
+      {
+        "value": "( \uff1b\u2200\uff1b)",
+        "description": "crying bird face"
+      },
+      {
+        "value": "(\u00b4\uff1b\u03c9\uff1b\uff40)",
+        "description": "crying denko"
+      },
+      {
+        "value": "(\uff65\u0e31\u03c9\uff65\u0e31)",
+        "description": "flushed denko"
+      },
+      {
+        "value": "(\u256f\ufe35\u2570,)",
+        "description": "crying face"
+      },
+      {
+        "value": "\u00d3\u256d\u256e\u00d2",
+        "description": "crying face"
+      },
+      {
+        "value": "(\u3063\u02d8\u0329\u256d\u256e\u02d8\u0329)\u3063",
+        "description": "crying and hugging"
+      },
+      {
+        "value": "( \uff65\u0e31\ufe4f\uff65\u0e31)",
+        "description": "flushed face"
+      },
+      {
+        "value": "(\uff61\u014f\ufe4f\u014f)",
+        "description": "quivering face"
+      },
+      {
+        "value": "(\u0e51\u00b4\u2022.\u032b \u2022 `\u0e51)",
+        "description": "flushed face"
+      },
+      {
+        "value": "(\u00b4 . .\u032b . `)",
+        "description": "downcast face"
+      },
+      {
+        "value": "(\uff61\u2022\u0301\ufe3f\u2022\u0300\uff61)",
+        "description": "concerned face"
+      },
+      {
+        "value": "(\uff61\uff89\u03c9\uff3c\uff61)",
+        "description": "cover face with hands"
+      },
+      {
+        "value": "\u0ca5\u256d\u256e\u0ca5",
+        "description": "frown with teary eyes"
+      },
+      {
+        "value": "(\u15d2\u15e9\u15d5)",
+        "description": "silently crying face"
+      },
+      {
+        "value": "( \u2267\u0414\u2266)",
+        "description": "silently crying face"
+      },
+      {
+        "value": ".\u00b7\u00b4\u00af`(>\u2582<)\u00b4\u00af`\u00b7.",
+        "description": "loudly crying face"
+      },
+      {
+        "value": "( \u2688\u0325\u0325\u0325\u0325\u0325\u0301\u2322\u2688\u0325\u0325\u0325\u0325\u0325\u0300)",
+        "description": "crying face"
+      },
+      {
+        "value": "(\u00b4;\ufe35;`)",
+        "description": "crying face"
+      },
+      {
+        "value": "\u0f3c;\u00b4\u0f0e\u0eb6 \u06dd \u0f0e\u0eb6\u0f3d",
+        "description": "loudly crying face"
+      },
+      {
+        "value": "\uff61:\uff9f(;\u00b4\u2229`;)\uff9f:\uff61",
+        "description": "loudly crying face"
+      },
+      {
+        "value": "(\u0f0e\u0eb6 \u0df4 \u0f0e\u0eb6)",
+        "description": "crying with quivering mouth"
+      },
+      {
+        "value": "( \ua228\u0eb6 \u02d9\u032b\u032e \ua228\u0eb6 )",
+        "description": "loudly crying face"
+      },
+      {
+        "value": "(\uff61T \u03c9 T\uff61)",
+        "description": "denko crying"
+      },
+      {
+        "value": "(\u3012\ufe4f\u3012)",
+        "description": "crying face"
+      },
+      {
+        "value": "(\u4e2a_\u4e2a)",
+        "description": "crying face"
+      },
+      {
+        "value": "(\u2565\ufe4f\u2565)",
+        "description": "crying with quivering mouth"
+      },
+      {
+        "value": "(-\u0329\u0329\u0329-\u0329\u0329\u0329-\u0329\u0329\u0329-\u0329\u0329\u0329-\u0329\u0329\u0329___-\u0329\u0329\u0329-\u0329\u0329\u0329-\u0329\u0329\u0329-\u0329\u0329\u0329-\u0329\u0329\u0329)",
+        "description": "loudly crying face"
+      },
+      {
+        "value": "(\u00b4\u00b0\u0325\u0325\u0325\u0325\u0325\u0325\u0325\u0325\u03c9\u00b0\u0325\u0325\u0325\u0325\u0325\u0325\u0325\u0325\uff40)",
+        "description": "weeping denko"
+      }
+    ]
+  },
+  {
+    "group": "Worrying",
+    "emoticon": [
+      {
+        "value": "(\u0e51\u2022\ufe4f\u2022)",
+        "description": "quivering with sweat"
+      },
+      {
+        "value": "\u2299\ufe4f\u2299",
+        "description": "quivering face"
+      },
+      {
+        "value": "\u254f \u201d \u229a \u035f\u0296 \u229a \u201d \u254f",
+        "description": "sweaty shocked face"
+      },
+      {
+        "value": "(\u256c\u2609\u0434\u2299)\u22b0\u22b9\u0e3a",
+        "description": "zany face"
+      },
+      {
+        "value": "\u30d8\uff08\u3002\u25a1\u00b0\uff09\u30d8",
+        "description": "zany face"
+      },
+      {
+        "value": "(\u2299_\u25ce)",
+        "description": "zany face"
+      },
+      {
+        "value": "\u30df\u25cf\ufe4f\u2609\u30df",
+        "description": "zany face"
+      },
+      {
+        "value": "(\u25cf\u00b4\u2313`\u25cf)",
+        "description": "anguished face"
+      },
+      {
+        "value": "(*\ufe4f*;)",
+        "description": "quivering glassy eyed face"
+      },
+      {
+        "value": "(\uff20_\uff20;)",
+        "description": "wide eyed and sweating"
+      },
+      {
+        "value": "(\ua3ff\ufe4f\ua3ff;)",
+        "description": "wide eyed and sweating"
+      },
+      {
+        "value": "(;\u014f\ufe4f\u014f)",
+        "description": "wide eyed and sweating"
+      },
+      {
+        "value": "(\u2022 \u25bd \u2022;)",
+        "description": "sweaty bird face"
+      },
+      {
+        "value": "(\u02d8\uff65_\uff65\u02d8)",
+        "description": "concerned face"
+      },
+      {
+        "value": "(*\u30fb\uff5e\u30fb*)",
+        "description": "concerned face"
+      },
+      {
+        "value": "(\u30fb_\u30fb;)",
+        "description": "sweaty face"
+      },
+      {
+        "value": "(;;;\u30fb_\u30fb)",
+        "description": "very sweaty face"
+      },
+      {
+        "value": "(\u30fb\u2013\u30fb;)\u309e",
+        "description": "scratching head and sweating face"
+      },
+      {
+        "value": "(^\uff5e^;)\u309e",
+        "description": "scratching head and sweating face"
+      },
+      {
+        "value": "(\uffe3\u30d8\uffe3;)",
+        "description": "frown face with sweat"
+      },
+      {
+        "value": "(\u0665\u21bc_\u21bc)",
+        "description": "expressionless face with sweat"
+      },
+      {
+        "value": "(\u30fc_\u30fc\u309b)",
+        "description": "expressionless face with sweat"
+      },
+      {
+        "value": "(\u2500.\u2500||\uff09",
+        "description": "expressionless face with sweat"
+      },
+      {
+        "value": "(-_-;)",
+        "description": "expressionless face with sweat"
+      },
+      {
+        "value": "(-_-\u30e1)",
+        "description": "expressionless face with sweat"
+      },
+      {
+        "value": "(-_-;)\u30fb\u30fb\u30fb",
+        "description": "sweaty face with long pause"
+      },
+      {
+        "value": "(\u00b4-\ufe4f-`\uff1b)",
+        "description": "sweaty nervous face"
+      },
+      {
+        "value": "(~_~\u30e1)",
+        "description": "serious sweaty face"
+      },
+      {
+        "value": "(~_~;)",
+        "description": "serious sweaty face"
+      },
+      {
+        "value": "(\u0298\u8a00\u0298\u256c)",
+        "description": "upset sweaty face"
+      },
+      {
+        "value": "(^_^\u30e1)",
+        "description": "grinning eyes with sweat"
+      },
+      {
+        "value": "(\uff1b^\u03c9^\uff09",
+        "description": "sweaty happy denko"
+      }
+    ]
+  },
+  {
+    "group": "Pointing",
+    "emoticon": [
+      {
+        "value": "\u2517(\u2022\u02c7_\u02c7\u2022)\u2015\u2192",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\u261e \u0ca0_\u0ca0)\u261e",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\u261e\uff9f\u2200\uff9f)\u261e",
+        "description": "pointing right"
+      },
+      {
+        "value": "\u261e\uffe3\u1d25\uffe3\u261e",
+        "description": "pointing right"
+      },
+      {
+        "value": "\u2192(\u00b0 \u06dd \u00b0)\u2517",
+        "description": "pointing right"
+      },
+      {
+        "value": "\u2192_\u2192",
+        "description": "pointing right"
+      },
+      {
+        "value": "\u2190_\u2190",
+        "description": "pointing left"
+      },
+      {
+        "value": "\u27f5(o_O)",
+        "description": "pointing left"
+      },
+      {
+        "value": "\u27f5(\u0e51\u00af\u25e1\u00af\u0e51)",
+        "description": "pointing left"
+      },
+      {
+        "value": "\u0505( \u0352 \u06dd \u0352 )\u1564",
+        "description": "pointing left"
+      },
+      {
+        "value": "\u261c (\u21bc_\u21bc)",
+        "description": "pointing left"
+      },
+      {
+        "value": "\uff61.\uff9f+ \u27f5(\uff61\uff65\u03c9\uff65)",
+        "description": "pointing left"
+      },
+      {
+        "value": "\u2190(>\u25bd<)\uff89",
+        "description": "pointing left"
+      },
+      {
+        "value": "\u2190(*\ua4aa\u30ee\ua4aa*)",
+        "description": "pointing left"
+      },
+      {
+        "value": "(\u261e^o^) \u261e",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\u256d\u261e\u2022\u0301\u235b\u2022\u0300)\u256d\u261e",
+        "description": "pointing right"
+      },
+      {
+        "value": "\u3008(\u2022\u02c7\u203f\u02c7\u2022)-\u2192",
+        "description": "pointing right"
+      },
+      {
+        "value": "(?\u30fb\u30fb)\u03c3",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\u2609\uff61\u2609)!\u2192",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\uff89\uff9f0\uff9f)\uff89\u2192",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\u00b4\u2299\u03c9\u2299`)\u2192",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\u261e\uff9f\u30ee\uff9f)\u261e",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\u261e \u0361\u00b0 \u035c\u0296 \u0361\u00b0)\u261e",
+        "description": "pointing right"
+      },
+      {
+        "value": "\u00b4\u25d4\u203f\u309d\u25d4`)\u2501\u261e",
+        "description": "pointing right"
+      },
+      {
+        "value": "( \u055e\u0a0a \u055e\uff09\u2192",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\u3000\uff65\u03c9\uff65)\u261e",
+        "description": "pointing right"
+      },
+      {
+        "value": "(*\u275b\u203f\u275b)\u2192",
+        "description": "pointing right"
+      },
+      {
+        "value": "\u2570( \uff65 \u15dc \uff65 )\u279d",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\u2727\u0414\u2727)\u2192",
+        "description": "pointing right"
+      },
+      {
+        "value": "(\uff61\u25d5\u203f\u25d5\uff61)\u279c",
+        "description": "pointing right"
+      },
+      {
+        "value": "<(\uffe3\ufe36\uffe3)\u2197",
+        "description": "pointing right"
+      },
+      {
+        "value": "*\uff65\u309c\uff9f(^O^)\u219d",
+        "description": "pointing right"
+      }
+    ]
+  },
+  {
+    "group": "Sparkling",
+    "emoticon": [
+      {
+        "value": "\u2727\uff65\uff9f:* *:\uff65\uff9f\u2727",
+        "description": "sparkles"
+      },
+      {
+        "value": "*\uff0a\u273f\u2740  \u2740\u273f\uff0a*",
+        "description": "flowers"
+      },
+      {
+        "value": "\u2606*:..\uff61. .\uff61.:*\u2606",
+        "description": "sparkles"
+      },
+      {
+        "value": "\u2669\u266a\u2669\u266c   \u266c\u2669\u266a\u2669",
+        "description": "music notes"
+      },
+      {
+        "value": "\uff61\uff65\uff9f\uff9f\uff65 \uff65\uff9f\uff9f\uff65\uff61",
+        "description": "sparkles"
+      },
+      {
+        "value": ".\u30fb\u309c-: \u2727\u263e\u3000\u263d\u2727 :-\u309c\u30fb.",
+        "description": "sparkles"
+      },
+      {
+        "value": "\u2606\u25cbo\u3002 \u3002o\u25cb\u2606",
+        "description": "sparkles"
+      },
+      {
+        "value": ".\uff61*\uff9f+.*.\uff61 \uff9f+..\uff61*\uff9f+",
+        "description": "sparkles"
+      },
+      {
+        "value": ".\u30fb\u309c\u309c\u30fb \u30fb\u309c\u309c\u30fb\uff0e",
+        "description": "sparkles"
+      },
+      {
+        "value": "\uff61\uff65\uff9f\uff9f\uff65 \uff65\uff9f\uff9f\uff65\uff61",
+        "description": "sparkles"
+      },
+      {
+        "value": "\u3002:+* \u309c \u309c\u309c *+:\u3002",
+        "description": "sparkles"
+      },
+      {
+        "value": "\u273c\u3000 \u0489\u3000 \u0489\u3000 \u0489\u3000 \u0489\u3000 \u0489\u3000 \u0489\u3000\u273c",
+        "description": "sparkles"
+      },
+      {
+        "value": ".\uff61*\uff9f+.*.\uff61 \uff9f+..\uff61*\uff9f+",
+        "description": "sparkles"
+      },
+      {
+        "value": "\u2606.\uff61.:* .\uff61.:*\u2606",
+        "description": "sparkles"
+      },
+      {
+        "value": ". \u3002\u30fb\u309c\u272d\u30fb.\u30fb\u272b\u309c\u30fb\u3002.",
+        "description": "sparkles"
+      },
+      {
+        "value": "\u2093\u02da. \u0b6d \u02da\u25cb\u25e6\u02da.\u02da\u25e6\u25cb\u02da \u0b67 .\u02da\u2093",
+        "description": "sparkles"
+      },
+      {
+        "value": "\u203f\ufe35\u203f\ufe35\u203f\ufe35\u203f\ufe35\u203f\ufe35\u203f",
+        "description": "wavy lines"
+      },
+      {
+        "value": "\u0b68\u0b67\u30fb\u30fb\u30fb\u30fb\u0b68\u0b67\u30fb\u30fb\u30fb\u30fb",
+        "description": "stars"
+      },
+      {
+        "value": "\u00b0\u3002\u00b0\u3002\u00b0\u3002\u00b0\u3002\u00b0\u3002\u00b0\u3002\u00b0\u3002\u00b0\u3002",
+        "description": "sparkles"
+      },
+      {
+        "value": "\u25bc\u25b3\u25bc\u25b3\u25bc\u25b3\u25bc\u25b3",
+        "description": "triangles"
+      },
+      {
+        "value": "\u25cf\u25cb\u25cf\u25cb\u25cf\u25cb\u25cf\u25cb\u25cf\u25cb",
+        "description": "circles"
+      },
+      {
+        "value": "\u25cf\u30fb\u25cb\u30fb\u25cf\u30fb\u25cb\u30fb\u25cf\u30fb\u25cb\u30fb",
+        "description": "circles"
+      },
+      {
+        "value": "\u25a0\u25a1\u25a0\u25a1\u25a0\u25a1\u25a0\u25a1\u25a0\u25a1",
+        "description": "squares"
+      }
+    ]
+  }
+]
