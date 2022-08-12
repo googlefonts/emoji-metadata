@@ -52,7 +52,7 @@
         "shortcodes": [
           ":grinning:"
         ],
-        "animated": true
+        "animated": false
       },
       {
         "base": [
@@ -91,7 +91,7 @@
         "shortcodes": [
           ":joy:"
         ],
-        "animated": true
+        "animated": false
       },
       {
         "base": [
@@ -117,7 +117,7 @@
         "shortcodes": [
           ":loudly-crying:"
         ],
-        "animated": true
+        "animated": false
       },
       {
         "base": [
@@ -489,7 +489,7 @@
         "shortcodes": [
           ":thinking-face:"
         ],
-        "animated": true
+        "animated": false
       },
       {
         "base": [
@@ -907,7 +907,7 @@
         "shortcodes": [
           ":flushed:"
         ],
-        "animated": true
+        "animated": false
       },
       {
         "base": [
@@ -1489,7 +1489,7 @@
           ":burn:",
           ":lit:"
         ],
-        "animated": true
+        "animated": false
       },
       {
         "base": [
@@ -2231,7 +2231,7 @@
         "shortcodes": [
           ":eyes:"
         ],
-        "animated": true
+        "animated": false
       },
       {
         "base": [
@@ -2617,7 +2617,7 @@
         "shortcodes": [
           ":clap:"
         ],
-        "animated": true
+        "animated": false
       },
       {
         "base": [
@@ -4076,7 +4076,7 @@
           ":thank-you:",
           ":high-five:"
         ],
-        "animated": true
+        "animated": false
       },
       {
         "base": [
