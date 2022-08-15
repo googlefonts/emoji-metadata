@@ -823,7 +823,9 @@
           128543
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          ":-("
+        ],
         "shortcodes": [
           ":worried:"
         ],
@@ -1452,6 +1454,18 @@
           ":sun-with-face:"
         ],
         "animated": true
+      },
+      {
+        "base": [
+          9760,
+          65039
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":skull-and-crossbones:"
+        ],
+        "animated": false
       },
       {
         "base": [
@@ -3205,41 +3219,6 @@
       },
       {
         "base": [
-          129783
-        ],
-        "alternates": [
-          [
-            129783
-          ],
-          [
-            129783,
-            127995
-          ],
-          [
-            129783,
-            127996
-          ],
-          [
-            129783,
-            127997
-          ],
-          [
-            129783,
-            127998
-          ],
-          [
-            129783,
-            127999
-          ]
-        ],
-        "emoticons": [],
-        "shortcodes": [
-          ":push-leftwards:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
           129784
         ],
         "alternates": [
@@ -3270,6 +3249,41 @@
         "emoticons": [],
         "shortcodes": [
           ":push-rightwards:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
+          129783
+        ],
+        "alternates": [
+          [
+            129783
+          ],
+          [
+            129783,
+            127995
+          ],
+          [
+            129783,
+            127996
+          ],
+          [
+            129783,
+            127997
+          ],
+          [
+            129783,
+            127998
+          ],
+          [
+            129783,
+            127999
+          ]
+        ],
+        "emoticons": [],
+        "shortcodes": [
+          ":push-leftwards:"
         ],
         "animated": false
       },
@@ -25011,17 +25025,6 @@
       },
       {
         "base": [
-          129516
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":dna:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
           128137
         ],
         "alternates": [],
@@ -25072,6 +25075,17 @@
         "emoticons": [],
         "shortcodes": [
           ":x-ray:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
+          129516
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":dna:"
         ],
         "animated": false
       },
@@ -25465,6 +25479,28 @@
       },
       {
         "base": [
+          128214
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":open-book:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
+          128218
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":books:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
           128210
         ],
         "alternates": [],
@@ -25542,28 +25578,6 @@
       },
       {
         "base": [
-          128218
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":books:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
-          128214
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":open-book:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
           128278
         ],
         "alternates": [],
@@ -25631,6 +25645,40 @@
       },
       {
         "base": [
+          128194
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":open-file-folder:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
+          128193
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":file-folder:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
+          128450,
+          65039
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":card-index-dividers:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
           128451,
           65039
         ],
@@ -25650,40 +25698,6 @@
         "emoticons": [],
         "shortcodes": [
           ":file-cabinet:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
-          128450,
-          65039
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":card-index-dividers:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
-          128194
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":open-file-folder:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
-          128193
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":file-folder:"
         ],
         "animated": false
       },
@@ -25981,29 +25995,6 @@
       },
       {
         "base": [
-          129703
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":placard:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
-          9201,
-          65039
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":stopwatch:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
           128347
         ],
         "alternates": [],
@@ -26268,23 +26259,24 @@
       },
       {
         "base": [
-          8987
+          9201,
+          65039
         ],
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":hourglass-done:"
+          ":stopwatch:"
         ],
         "animated": false
       },
       {
         "base": [
-          9203
+          8986
         ],
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":hourglass-not-done:"
+          ":watch:"
         ],
         "animated": false
       },
@@ -26302,12 +26294,23 @@
       },
       {
         "base": [
-          8986
+          8987
         ],
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":watch:"
+          ":hourglass-done:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
+          9203
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":hourglass-not-done:"
         ],
         "animated": false
       },
@@ -26336,18 +26339,6 @@
       },
       {
         "base": [
-          128467,
-          65039
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":spiral-calendar:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
           128197
         ],
         "alternates": [],
@@ -26365,6 +26356,29 @@
         "emoticons": [],
         "shortcodes": [
           ":tear-off-calendar:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
+          128467,
+          65039
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":spiral-calendar:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
+          129703
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":placard:"
         ],
         "animated": false
       },
@@ -27800,6 +27814,18 @@
       },
       {
         "base": [
+          10036,
+          65039
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":eight-pointed-star:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
           128310
         ],
         "alternates": [],
@@ -27846,35 +27872,12 @@
       },
       {
         "base": [
-          10036,
-          65039
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":eight-pointed-star:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
           127386
         ],
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
           ":vs:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
-          128732
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":wireless:"
         ],
         "animated": false
       },
