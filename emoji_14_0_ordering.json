@@ -52,7 +52,7 @@
         "shortcodes": [
           ":grinning:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -91,7 +91,7 @@
         "shortcodes": [
           ":joy:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2544,7 +2544,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":thumbsup:",
+          ":thumbs-up:",
           ":+1:"
         ],
         "animated": true
@@ -2580,7 +2580,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":thumbsdown:"
+          ":thumbs-down:"
         ],
         "animated": false
       },
