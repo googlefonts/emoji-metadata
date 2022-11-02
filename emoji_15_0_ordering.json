@@ -229,7 +229,9 @@
           129395
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "(\uff89\u25d5\u30ee\u25d5)\u266c\u266a"
+        ],
         "shortcodes": [
           ":partying-face:"
         ],
@@ -291,7 +293,9 @@
           129401
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "(\uff1b\u4eba\uff1b)"
+        ],
         "shortcodes": [
           ":holding-back-tears:"
         ],
@@ -363,7 +367,9 @@
           128554
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "(-.-)zzZZ"
+        ],
         "shortcodes": [
           ":sleepy:"
         ],
@@ -375,7 +381,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "^p^"
+          "(\u00af\ufe43\u00af)"
         ],
         "shortcodes": [
           ":drool:"
@@ -388,7 +394,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "o_O"
+          ":b"
         ],
         "shortcodes": [
           ":yum:"
@@ -401,7 +407,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "O:)"
+          "*p*"
         ],
         "shortcodes": [
           ":stuck-out-tongue:"
@@ -414,7 +420,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "._."
+          "^p^"
         ],
         "shortcodes": [
           ":squinting-tongue:"
@@ -427,7 +433,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "-_-"
+          ";\u00de"
         ],
         "shortcodes": [
           ":winky-tongue:"
@@ -439,9 +445,7 @@
           129322
         ],
         "alternates": [],
-        "emoticons": [
-          ":|"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":zany-face:"
         ],
@@ -452,7 +456,9 @@
           129396
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          ">\ufe4f\u2609"
+        ],
         "shortcodes": [
           ":woozy:"
         ],
@@ -463,7 +469,9 @@
           128532
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "._."
+        ],
         "shortcodes": [
           ":pensive:"
         ],
@@ -474,7 +482,9 @@
           129402
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "\u25d5\ufe4f\u25d5"
+        ],
         "shortcodes": [
           ":pleading:"
         ],
@@ -486,7 +496,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ">:("
+          ":-|"
         ],
         "shortcodes": [
           ":grimacing:"
@@ -495,22 +505,12 @@
       },
       {
         "base": [
-          129765
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":dotted-line-face:",
-          ":invisible:"
-        ],
-        "animated": false
-      },
-      {
-        "base": [
           128529
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "-_-"
+        ],
         "shortcodes": [
           ":expressionless:"
         ],
@@ -522,7 +522,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "(\u30fb\u0434\u30fb\u309d\uff09"
+          ":|"
         ],
         "shortcodes": [
           ":neutral-face:"
@@ -534,9 +534,7 @@
           128566
         ],
         "alternates": [],
-        "emoticons": [
-          "=L"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":mouth-none:"
         ],
@@ -559,11 +557,23 @@
       },
       {
         "base": [
+          129765
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":dotted-line-face:",
+          ":invisible:"
+        ],
+        "animated": false
+      },
+      {
+        "base": [
           129296
         ],
         "alternates": [],
         "emoticons": [
-          "D-:"
+          ":#"
         ],
         "shortcodes": [
           ":zipper-face:"
@@ -575,7 +585,9 @@
           129761
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "(\u30fb\u0434\u30fb\u309d\uff09"
+        ],
         "shortcodes": [
           ":salute:"
         ],
@@ -587,7 +599,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "~O~"
+          "=L"
         ],
         "shortcodes": [
           ":thinking-face:"
@@ -600,7 +612,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "\\(^o^)/"
+          "(\uffe3b\uffe3)"
         ],
         "shortcodes": [
           ":shushing-face:"
@@ -612,9 +624,7 @@
           129762
         ],
         "alternates": [],
-        "emoticons": [
-          "|\u0434\uff65)"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":hand-over-mouth:"
         ],
@@ -625,9 +635,7 @@
           129325
         ],
         "alternates": [],
-        "emoticons": [
-          "@0@"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":smiling-eyes-with-hand-over-mouth:",
           ":chuckling:"
@@ -639,7 +647,9 @@
           129393
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "~O~"
+        ],
         "shortcodes": [
           ":yawn:"
         ],
@@ -650,7 +660,9 @@
           129303
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "\\(^o^)/"
+        ],
         "shortcodes": [
           ":hug-face:"
         ],
@@ -662,7 +674,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "(-_-)\u309e"
+          "(*/\u3002\uff3c)"
         ],
         "shortcodes": [
           ":peeking:"
@@ -675,7 +687,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "o~O"
+          "@0@"
         ],
         "shortcodes": [
           ":screaming:"
@@ -687,7 +699,11 @@
           129320
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "(",
+          "\u035d\u05e1\u05bc",
+          "\u035c\u0296\u0361\u05e1\u05bc)"
+        ],
         "shortcodes": [
           ":raised-eyebrow:"
         ],
@@ -698,7 +714,9 @@
           129488
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "o~O"
+        ],
         "shortcodes": [
           ":monocle:"
         ],
@@ -710,7 +728,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "X-("
+          ">->"
         ],
         "shortcodes": [
           ":unamused:"
@@ -722,9 +740,7 @@
           128580
         ],
         "alternates": [],
-        "emoticons": [
-          ">:O"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":rolling-eyes:"
         ],
@@ -737,9 +753,7 @@
           128168
         ],
         "alternates": [],
-        "emoticons": [
-          "#$@!"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":exhale:"
         ],
@@ -750,7 +764,9 @@
           128548
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "(((\u256c\u25e3\ufe4f\u25e2)))"
+        ],
         "shortcodes": [
           ":triumph:"
         ],
@@ -761,7 +777,9 @@
           128544
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "X-("
+        ],
         "shortcodes": [
           ":angry:"
         ],
@@ -772,7 +790,9 @@
           128545
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          ">:O"
+        ],
         "shortcodes": [
           ":rage:"
         ],
@@ -784,7 +804,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":S"
+          "#$@!"
         ],
         "shortcodes": [
           ":cursing:"
@@ -796,9 +816,7 @@
           128542
         ],
         "alternates": [],
-        "emoticons": [
-          "D-X"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":sad:"
         ],
@@ -810,7 +828,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "D:"
+          "(0\u30780)"
         ],
         "shortcodes": [
           ":sweat:",
@@ -824,7 +842,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":-("
+          ":S"
         ],
         "shortcodes": [
           ":worried:"
@@ -837,7 +855,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":("
+          "\u2022_\u2022'"
         ],
         "shortcodes": [
           ":concerned:"
@@ -850,7 +868,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":/"
+          ":'("
         ],
         "shortcodes": [
           ":cry:"
@@ -864,7 +882,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":-/"
+          ":-("
         ],
         "shortcodes": [
           ":big-frown:"
@@ -876,7 +894,9 @@
           128577
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          ":("
+        ],
         "shortcodes": [
           ":frown:"
         ],
@@ -887,7 +907,9 @@
           129764
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          ":/"
+        ],
         "shortcodes": [
           ":diagonal-mouth:"
         ],
@@ -899,7 +921,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "D-':"
+          ":-/"
         ],
         "shortcodes": [
           ":slightly-frowning:"
@@ -912,7 +934,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":O"
+          "D-':"
         ],
         "shortcodes": [
           ":anxious-with-sweat:"
@@ -925,7 +947,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":o"
+          "D-:"
         ],
         "shortcodes": [
           ":scared:"
@@ -949,7 +971,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "8\u20110"
+          "D="
         ],
         "shortcodes": [
           ":gasp:"
@@ -961,7 +983,9 @@
           128558
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          ":O"
+        ],
         "shortcodes": [
           ":mouth-open:"
         ],
@@ -973,7 +997,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":-|"
+          ":o"
         ],
         "shortcodes": [
           ":surprised:",
@@ -986,9 +1010,7 @@
           128562
         ],
         "alternates": [],
-        "emoticons": [
-          "(0\u30780)"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":astonished:"
         ],
@@ -999,7 +1021,9 @@
           128563
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "8\u20110"
+        ],
         "shortcodes": [
           ":flushed:"
         ],
@@ -1010,9 +1034,7 @@
           129327
         ],
         "alternates": [],
-        "emoticons": [
-          ">:["
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":mind-blown:",
           ":exploding-head:"
@@ -1025,7 +1047,7 @@
         ],
         "alternates": [],
         "emoticons": [
-          "X_o"
+          ">:["
         ],
         "shortcodes": [
           ":scrunched-mouth:",
@@ -1039,7 +1061,9 @@
           128547
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          ">:("
+        ],
         "shortcodes": [
           ":scrunched-eyes:",
           ":persevering:"
@@ -1051,7 +1075,9 @@
           128553
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "D:"
+        ],
         "shortcodes": [
           ":weary:"
         ],
@@ -1062,7 +1088,9 @@
           128555
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "D-X"
+        ],
         "shortcodes": [
           ":distraught:"
         ],
@@ -1073,7 +1101,9 @@
           128565
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "X_o"
+        ],
         "shortcodes": [
           ":x-eyes:"
         ],
@@ -1215,7 +1245,9 @@
           128519
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "O:)"
+        ],
         "shortcodes": [
           ":halo:",
           ":innocent:"
@@ -1240,7 +1272,9 @@
           129297
         ],
         "alternates": [],
-        "emoticons": [],
+        "emoticons": [
+          "$_$"
+        ],
         "shortcodes": [
           ":money-face:"
         ],
@@ -1364,9 +1398,7 @@
           129302
         ],
         "alternates": [],
-        "emoticons": [
-          "\u2514[\u2235\u250c]\u2514[\u2235]\u2518[\u2510\u2235]\u2518"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":robot:"
         ],
@@ -2578,7 +2610,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":thumbsup:",
+          ":thumbs-up:",
           ":+1:"
         ],
         "animated": true
@@ -2614,7 +2646,7 @@
         ],
         "emoticons": [],
         "shortcodes": [
-          ":thumbsdown:"
+          ":thumbs-down:"
         ],
         "animated": false
       },
@@ -13471,7 +13503,7 @@
           ]
         ],
         "emoticons": [
-          "\u2517(\uff65o\uff65)\u2513\u266a"
+          "\u266a\u2517(\uff65o\uff65)\u2513\u266a"
         ],
         "shortcodes": [
           ":dancer-man:"
@@ -19610,7 +19642,7 @@
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":honeybee:"
+          ":bee:"
         ],
         "animated": false
       },
