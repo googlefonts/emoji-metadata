@@ -18755,7 +18755,9 @@
         ],
         "alternates": [],
         "emoticons": [],
-        "shortcodes": [],
+        "shortcodes": [
+          ":donkey:"
+        ],
         "animated": false
       },
       {
