@@ -571,9 +571,7 @@
           128561
         ],
         "alternates": [],
-        "emoticons": [
-          "@0@"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":screaming:"
         ],
@@ -610,9 +608,7 @@
           128530
         ],
         "alternates": [],
-        "emoticons": [
-          ">->"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":unamused:"
         ],
@@ -850,9 +846,7 @@
           128550
         ],
         "alternates": [],
-        "emoticons": [
-          "D="
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":gasp:"
         ],
@@ -869,7 +863,7 @@
         "shortcodes": [
           ":mouth-open:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2582,7 +2576,7 @@
         "shortcodes": [
           ":thumbs-down:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -29076,7 +29070,7 @@
           ":plus-sign:",
           ":+:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
