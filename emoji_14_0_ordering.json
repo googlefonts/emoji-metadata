@@ -2576,7 +2576,7 @@
         "shortcodes": [
           ":thumbs-down:"
         ],
-        "animated": true
+        "animated": false
       },
       {
         "base": [
