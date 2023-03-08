@@ -990,7 +990,7 @@
         "shortcodes": [
           ":mouth-open:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
