@@ -393,10 +393,7 @@
           128523
         ],
         "alternates": [],
-        "emoticons": [
-          ":P",
-          ":p"
-        ],
+        "emoticons": [],
         "shortcodes": [
           ":yum:"
         ],
@@ -408,8 +405,8 @@
         ],
         "alternates": [],
         "emoticons": [
-          ":-P",
-          ":-p"
+          ":P",
+          ":p"
         ],
         "shortcodes": [
           ":stuck-out-tongue:"
