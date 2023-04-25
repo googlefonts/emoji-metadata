@@ -143,7 +143,7 @@
         "shortcodes": [
           ":kissing:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -156,7 +156,7 @@
         "shortcodes": [
           ":kissing-smiling-eyes:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -406,7 +406,9 @@
         "alternates": [],
         "emoticons": [
           ":P",
-          ":p"
+          ":p",
+          ":-P",
+          ":-p"
         ],
         "shortcodes": [
           ":stuck-out-tongue:"
@@ -461,7 +463,7 @@
         "shortcodes": [
           ":woozy:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -552,7 +554,7 @@
           ":face-in-clouds:",
           ":lost:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -564,7 +566,7 @@
           ":dotted-line-face:",
           ":invisible:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -577,7 +579,7 @@
         "shortcodes": [
           ":zipper-face:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -678,7 +680,7 @@
         "shortcodes": [
           ":peeking:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -719,7 +721,7 @@
         "shortcodes": [
           ":monocle:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -756,7 +758,7 @@
         "shortcodes": [
           ":exhale:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -808,7 +810,7 @@
         "shortcodes": [
           ":cursing:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -846,7 +848,7 @@
         "shortcodes": [
           ":worried:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -899,7 +901,7 @@
         "shortcodes": [
           ":frown:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -912,7 +914,7 @@
         "shortcodes": [
           ":diagonal-mouth:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -938,7 +940,7 @@
         "shortcodes": [
           ":anxious-with-sweat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -951,7 +953,7 @@
         "shortcodes": [
           ":scared:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -962,7 +964,7 @@
         "shortcodes": [
           ":anguished:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -975,7 +977,7 @@
         "shortcodes": [
           ":gasp:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1002,7 +1004,7 @@
           ":surprised:",
           ":hushed:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1013,7 +1015,7 @@
         "shortcodes": [
           ":astonished:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1106,7 +1108,7 @@
         "shortcodes": [
           ":x-eyes:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1130,7 +1132,7 @@
         "shortcodes": [
           ":shaking-face:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1141,7 +1143,7 @@
         "shortcodes": [
           ":cold-face:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1153,7 +1155,7 @@
           ":hot-face:",
           ":sweat-face:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1167,7 +1169,7 @@
           ":sick:",
           ":nauseated:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1180,7 +1182,7 @@
         "shortcodes": [
           ":vomit:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1193,7 +1195,7 @@
         "shortcodes": [
           ":sneeze:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1204,7 +1206,7 @@
         "shortcodes": [
           ":thermometer-face:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1215,7 +1217,7 @@
         "shortcodes": [
           ":bandage-face:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1226,7 +1228,7 @@
         "shortcodes": [
           ":mask:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1237,7 +1239,7 @@
         "shortcodes": [
           ":liar:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1290,7 +1292,7 @@
         "shortcodes": [
           ":nerd-face:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1314,7 +1316,7 @@
         "shortcodes": [
           ":disguise:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1327,7 +1329,7 @@
         "shortcodes": [
           ":clown:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1353,7 +1355,7 @@
         "shortcodes": [
           ":imp-frown:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1377,7 +1379,7 @@
         "shortcodes": [
           ":jack-o-lantern:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1401,7 +1403,7 @@
         "shortcodes": [
           ":robot:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1414,7 +1416,7 @@
         "shortcodes": [
           ":alien:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1436,7 +1438,7 @@
         "shortcodes": [
           ":moon-face-first-quarter:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1447,7 +1449,7 @@
         "shortcodes": [
           ":moon-face-last-quarter:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1531,7 +1533,7 @@
           ":burn:",
           ":lit:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1589,7 +1591,7 @@
         "shortcodes": [
           ":sparkles:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1703,7 +1705,7 @@
         "shortcodes": [
           ":smiley-cat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1714,7 +1716,7 @@
         "shortcodes": [
           ":smile-cat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1725,7 +1727,7 @@
         "shortcodes": [
           ":joy-cat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1736,7 +1738,7 @@
         "shortcodes": [
           ":heart-eyes-cat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1747,7 +1749,7 @@
         "shortcodes": [
           ":smirk-cat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1758,7 +1760,7 @@
         "shortcodes": [
           ":kissing-cat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1769,7 +1771,7 @@
         "shortcodes": [
           ":scream-cat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1780,7 +1782,7 @@
         "shortcodes": [
           ":crying-cat-face:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1791,7 +1793,7 @@
         "shortcodes": [
           ":pouting-cat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1849,7 +1851,7 @@
         "shortcodes": [
           ":light-blue-heart:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1904,7 +1906,7 @@
         "shortcodes": [
           ":grey-heart:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1926,7 +1928,7 @@
         "shortcodes": [
           ":pink-heart:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1937,7 +1939,7 @@
         "shortcodes": [
           ":cupid:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -1948,7 +1950,7 @@
         "shortcodes": [
           ":gift-heart:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2016,7 +2018,7 @@
         "shortcodes": [
           ":love-letter:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2161,7 +2163,7 @@
         "shortcodes": [
           ":footprints:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2183,7 +2185,7 @@
         "shortcodes": [
           ":anatomical-heart:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2205,7 +2207,7 @@
         "shortcodes": [
           ":blood:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2217,7 +2219,7 @@
           ":microbe:",
           ":virus:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2250,7 +2252,7 @@
         "shortcodes": [
           ":skull:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2273,7 +2275,7 @@
         "shortcodes": [
           ":eye:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2295,7 +2297,7 @@
         "shortcodes": [
           ":biting-lip:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2492,7 +2494,7 @@
         "shortcodes": [
           ":leg-mechanical:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -2503,7 +2505,7 @@
         "shortcodes": [
           ":arm-mechanical:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -13471,7 +13473,7 @@
         "shortcodes": [
           ":dancer-woman:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -17228,7 +17230,7 @@
         "shortcodes": [
           ":wilted-flower:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -17339,7 +17341,7 @@
         "shortcodes": [
           ":fallen-leaf:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -17567,7 +17569,7 @@
           ":winter:",
           ":cold:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -17638,7 +17640,7 @@
         "shortcodes": [
           ":volcano:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -17697,7 +17699,7 @@
         "shortcodes": [
           ":sunrise:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -17708,7 +17710,7 @@
         "shortcodes": [
           ":sunrise-over-mountains:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -17753,7 +17755,7 @@
         "shortcodes": [
           ":wind-face:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -17789,7 +17791,7 @@
           ":zap:",
           ":lightning:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18056,7 +18058,7 @@
         "shortcodes": [
           ":comet:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18101,7 +18103,7 @@
         "shortcodes": [
           ":globe-showing-Europe-Africa:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18497,7 +18499,7 @@
         "shortcodes": [
           ":unicorn:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18541,7 +18543,7 @@
         "shortcodes": [
           ":lizard:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18552,7 +18554,7 @@
         "shortcodes": [
           ":dragon:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18563,7 +18565,7 @@
         "shortcodes": [
           ":t-rex:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18609,7 +18611,7 @@
         "shortcodes": [
           ":snake:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18620,7 +18622,7 @@
         "shortcodes": [
           ":frog:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18631,7 +18633,7 @@
         "shortcodes": [
           ":rabbit:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18655,7 +18657,7 @@
         "shortcodes": [
           ":rat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18701,7 +18703,7 @@
         "shortcodes": [
           ":dog:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18736,7 +18738,7 @@
         "shortcodes": [
           ":pig:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18747,7 +18749,7 @@
         "shortcodes": [
           ":racehorse:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18758,7 +18760,7 @@
         "shortcodes": [
           ":donkey:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18780,7 +18782,7 @@
         "shortcodes": [
           ":ox:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18836,7 +18838,7 @@
         "shortcodes": [
           ":goat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18880,7 +18882,7 @@
         "shortcodes": [
           ":kangaroo:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18958,7 +18960,7 @@
         "shortcodes": [
           ":tiger:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -18969,7 +18971,7 @@
         "shortcodes": [
           ":monkey:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19025,7 +19027,7 @@
         "shortcodes": [
           ":chipmunk:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19082,7 +19084,7 @@
         "shortcodes": [
           ":otter:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19095,7 +19097,7 @@
         "shortcodes": [
           ":bat:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19152,7 +19154,7 @@
         "shortcodes": [
           ":rooster:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19174,7 +19176,7 @@
         "shortcodes": [
           ":hatching-chick:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19185,7 +19187,7 @@
         "shortcodes": [
           ":baby-chick:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19196,7 +19198,7 @@
         "shortcodes": [
           ":hatched-chick:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19207,7 +19209,7 @@
         "shortcodes": [
           ":eagle:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19242,7 +19244,7 @@
           ":peace:",
           ":dove:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19286,7 +19288,7 @@
         "shortcodes": [
           ":goose:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19308,7 +19310,7 @@
         "shortcodes": [
           ":peacock:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19343,7 +19345,7 @@
         "shortcodes": [
           ":seal:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19365,7 +19367,7 @@
         "shortcodes": [
           ":dolphin:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19387,7 +19389,7 @@
         "shortcodes": [
           ":whale:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19422,7 +19424,7 @@
         "shortcodes": [
           ":blowfish:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19490,7 +19492,7 @@
         "shortcodes": [
           ":jellyfish:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19569,7 +19571,7 @@
         "shortcodes": [
           ":snail:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19580,7 +19582,7 @@
         "shortcodes": [
           ":ant:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19613,7 +19615,7 @@
         "shortcodes": [
           ":mosquito:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19646,7 +19648,7 @@
         "shortcodes": [
           ":bee:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -19714,7 +19716,7 @@
         "shortcodes": [
           ":paw prints:"
         ],
-        "animated": false
+        "animated": true
       }
     ]
   },
@@ -19930,7 +19932,7 @@
         "shortcodes": [
           ":tomato:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -20855,7 +20857,7 @@
         "shortcodes": [
           ":popcorn:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -20955,7 +20957,7 @@
         "shortcodes": [
           ":hot-beverage:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -21010,7 +21012,7 @@
         "shortcodes": [
           ":clinking-glasses:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -21032,7 +21034,7 @@
         "shortcodes": [
           ":wine-glass:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -21076,7 +21078,7 @@
         "shortcodes": [
           ":tropical-drink:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -21836,7 +21838,7 @@
         "shortcodes": [
           ":flying-saucer:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -21870,7 +21872,7 @@
         "shortcodes": [
           ":airplane-departure:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -21881,7 +21883,7 @@
         "shortcodes": [
           ":airplane-arrival:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -21916,7 +21918,7 @@
         "shortcodes": [
           ":roller-coaster:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -22660,7 +22662,7 @@
           ":mirror-ball:",
           ":disco-ball:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -23096,7 +23098,7 @@
           ":direct-hit:",
           ":target:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -23564,7 +23566,7 @@
         "shortcodes": [
           ":violin:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -23586,7 +23588,7 @@
         "shortcodes": [
           ":drum:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -23597,7 +23599,7 @@
         "shortcodes": [
           ":maracas:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -23884,7 +23886,7 @@
         "shortcodes": [
           ":battery-full:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -23895,7 +23897,7 @@
         "shortcodes": [
           ":battery-low:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -24178,7 +24180,7 @@
         "shortcodes": [
           ":light-bulb:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -24698,7 +24700,7 @@
         "shortcodes": [
           ":graduation-cap:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -24831,7 +24833,7 @@
         "shortcodes": [
           ":umbrella:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -26369,7 +26371,7 @@
         "shortcodes": [
           ":alarm-clock:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27044,7 +27046,7 @@
         "shortcodes": [
           ":pink-heart:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27055,7 +27057,7 @@
         "shortcodes": [
           ":light-blue-heart:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27066,7 +27068,7 @@
         "shortcodes": [
           ":gray-heart:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27125,7 +27127,7 @@
         "shortcodes": [
           ":Aries:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27136,7 +27138,7 @@
         "shortcodes": [
           ":Taurus:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27147,7 +27149,7 @@
         "shortcodes": [
           ":Gemini:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27158,7 +27160,7 @@
         "shortcodes": [
           ":Cancer:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27169,7 +27171,7 @@
         "shortcodes": [
           ":Leo:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27180,7 +27182,7 @@
         "shortcodes": [
           ":Virgo:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27191,7 +27193,7 @@
         "shortcodes": [
           ":Libra:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27202,7 +27204,7 @@
         "shortcodes": [
           ":Scorpio:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27213,7 +27215,7 @@
         "shortcodes": [
           ":Sagittarius:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27224,7 +27226,7 @@
         "shortcodes": [
           ":Capricorn:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27235,7 +27237,7 @@
         "shortcodes": [
           ":Aquarius:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27246,7 +27248,7 @@
         "shortcodes": [
           ":Pisces:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27257,7 +27259,7 @@
         "shortcodes": [
           ":Ophiuchus:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27413,7 +27415,7 @@
           ":exclamation-double:",
           ":!!:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -27436,7 +27438,7 @@
           ":x:",
           ":cross-mark:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -28475,7 +28477,7 @@
           ":check-mark:",
           ":check-mark-green:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
@@ -29782,7 +29784,7 @@
         "shortcodes": [
           ":chequered-flag:"
         ],
-        "animated": false
+        "animated": true
       },
       {
         "base": [
