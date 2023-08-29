@@ -7,6 +7,8 @@ This repository provides metadata to support UX around emoji. In particular, it 
 
 As emoji evolves new orderings will be added. 
 
+Demo: https://jsbin.com/kesuteh/1/edit?css,js,output
+
 A snippet is shown annotated below:
 
 ```js
@@ -52,3 +54,4 @@ Here are the alternates for Santa, as might be shown on long-press for the base 
 ![People](images/santa-alternates.png)
 
 The https://github.com/googlefonts/noto-emoji repository provides Google's Emoji.
+
