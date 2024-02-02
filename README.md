@@ -4,6 +4,7 @@ This repository provides metadata to support UX around emoji. In particular, it 
 * `emoji_13_1_ordering.json` for Emoji 13.1.
 * `emoji_14_0_ordering.json` for Emoji 14.0.
 * `emoji_15_0_ordering.json` for Emoji 15.0.
+* `emoji_15_1_ordering.json` for Emoji 15.1.
 
 As emoji evolves new orderings will be added. 
 
@@ -42,6 +43,10 @@ A snippet is shown annotated below:
         "shortcodes": [
           ":smirk:"
         ],
+        // Whether there is an animated version for the base emoji
+        "animated": true,
+        // [15.1]: whether the alternates include directional emoji
+        "directional": false
       },
 ```
 
