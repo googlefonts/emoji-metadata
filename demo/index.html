@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Emoji Demo</title>
+<link rel="stylesheet" href="styles.css" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Color+Emoji&display=block" />
+<style>
+body {
+  font: 16px Google Sans Text, sans-serif;
+}
+img {
+  max-width: 100%;
+}
+.chat {
+  border: 1px solid #ddd;
+  height: 400px;
+  margin: 50px auto;
+  position: relative;
+  width: 500px;
+}
+.input {
+  align-items: center;
+  background: #eee;
+  border-radius: 50px;
+  bottom: 15px;
+  box-sizing: border-box;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  left: 15px;
+  padding: 8px 15px;
+  position: absolute;
+  right: 15px;
+}
+.input__input {
+  -webkit-appearance: none;
+  background: transparent;
+  border: 0;
+  display: block;
+  width: 100%;
+}
+.input__emoji {
+  background: transparent;
+  border: 0;
+  height: 24px;
+  padding: 0;
+  width: 24px;
+}
+.input__emoji:hover {
+  background: rgba(0, 0, 0, .1);
+  border-radius: 24px;
+  cursor: pointer;
+}
+.emoji-keyboard__container {
+  display: none;
+  position: absolute;
+}
+.emoji-keyboard__container[style] {
+  display: block;
+}
+</style>
+</head>
+<body>
+
+<div class="chat">
+  <div class="input">
+    <input class="input__input" type="text" placeholder="Write a message" />
+    <button class="input__emoji" title="Insert Emoji">
+      <img src="https://fonts.gstatic.com/s/i/googlematerialicons/insert_emoticon/v15/gm_grey-48dp/2x/gm_insert_emoticon_gm_grey_48dp.png" alt="" />
+    </button>
+  </div>
+</div>
+
+<script src="bundle.js"></script>
+</body>
+</html>
