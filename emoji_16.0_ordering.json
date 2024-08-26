@@ -28012,25 +28012,12 @@
       },
       {
         "base": [
-          9993,
-          65039
+          128232
         ],
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":envelope:"
-        ],
-        "animated": false,
-        "directional": false
-      },
-      {
-        "base": [
-          128231
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":e-mail:"
+          ":incoming-envelope:"
         ],
         "animated": false,
         "directional": false
@@ -28049,12 +28036,13 @@
       },
       {
         "base": [
-          128232
+          9993,
+          65039
         ],
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":incoming-envelope:"
+          ":envelope:"
         ],
         "animated": false,
         "directional": false
@@ -28067,6 +28055,18 @@
         "emoticons": [],
         "shortcodes": [
           ":love-letter:"
+        ],
+        "animated": false,
+        "directional": false
+      },
+      {
+        "base": [
+          128231
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":e-mail:"
         ],
         "animated": false,
         "directional": false
