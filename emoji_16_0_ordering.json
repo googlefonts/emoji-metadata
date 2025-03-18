@@ -373,7 +373,7 @@
         "shortcodes": [
           ":head-nod:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -388,7 +388,7 @@
         "shortcodes": [
           ":head-shake:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -1287,7 +1287,7 @@
           ":tired:",
           ":bags-under-eyes:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -1592,7 +1592,7 @@
         "shortcodes": [
           ":snowman-with-snow:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -1604,7 +1604,7 @@
         "shortcodes": [
           ":snowman:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -1654,7 +1654,7 @@
         "shortcodes": [
           ":alien-monster:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -2467,7 +2467,7 @@
         "shortcodes": [
           ":fingerprint:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -2649,7 +2649,7 @@
         "shortcodes": [
           ":nose:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -2685,7 +2685,7 @@
         "shortcodes": [
           ":ear:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -2721,7 +2721,7 @@
         "shortcodes": [
           ":hearing-aid:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -2757,7 +2757,7 @@
         "shortcodes": [
           ":foot:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -2793,7 +2793,7 @@
         "shortcodes": [
           ":leg:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3001,7 +3001,7 @@
         "shortcodes": [
           ":heart-hands:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3074,7 +3074,7 @@
         "shortcodes": [
           ":open-hands:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3110,7 +3110,7 @@
         "shortcodes": [
           ":palms-up:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3146,7 +3146,7 @@
         "shortcodes": [
           ":fist-rightwards:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3182,7 +3182,7 @@
         "shortcodes": [
           ":fist-leftwards:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3218,7 +3218,7 @@
         "shortcodes": [
           ":raised-fist:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3255,7 +3255,7 @@
           ":fist:",
           ":bump:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3292,7 +3292,7 @@
           ":palm-down:",
           ":drop:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3329,7 +3329,7 @@
           ":palm-up:",
           ":throw:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3365,7 +3365,7 @@
         "shortcodes": [
           ":rightwards-hand:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3401,7 +3401,7 @@
         "shortcodes": [
           ":leftwards-hand:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3437,7 +3437,7 @@
         "shortcodes": [
           ":push-rightwards:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3473,7 +3473,7 @@
         "shortcodes": [
           ":push-leftwards:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3545,7 +3545,7 @@
         "shortcodes": [
           ":back-hand:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3583,7 +3583,7 @@
         "shortcodes": [
           ":palm:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3619,7 +3619,7 @@
         "shortcodes": [
           ":raised-hand:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3657,7 +3657,7 @@
           ":prosper:",
           ":spock:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3693,7 +3693,7 @@
         "shortcodes": [
           ":love-you-gesture:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3730,7 +3730,7 @@
           ":metal:",
           ":horns:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3844,7 +3844,7 @@
           ":snap:",
           ":finger-heart:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3880,7 +3880,7 @@
         "shortcodes": [
           ":call-me-hand:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3916,7 +3916,7 @@
         "shortcodes": [
           ":pinched-fingers:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3952,7 +3952,7 @@
         "shortcodes": [
           ":pinch:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -3988,7 +3988,7 @@
         "shortcodes": [
           ":ok:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -4024,7 +4024,7 @@
         "shortcodes": [
           ":pointing:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -4060,7 +4060,7 @@
         "shortcodes": [
           ":point-right:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -4096,7 +4096,7 @@
         "shortcodes": [
           ":point-left:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -4170,7 +4170,7 @@
         "shortcodes": [
           ":point-up:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -4206,7 +4206,7 @@
         "shortcodes": [
           ":point-down:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -4242,7 +4242,7 @@
         "shortcodes": [
           ":middle-finger:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -4280,7 +4280,7 @@
         "shortcodes": [
           ":writing-hand:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -4316,7 +4316,7 @@
         "shortcodes": [
           ":selfie:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -4394,7 +4394,7 @@
         "shortcodes": [
           ":nail-care:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -4570,7 +4570,7 @@
         "shortcodes": [
           ":handshake:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       }
     ]
@@ -18427,7 +18427,7 @@
           ":bouquet:",
           ":flowers:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -18721,7 +18721,7 @@
         "shortcodes": [
           ":leafless-tree:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -20618,7 +20618,7 @@
         "shortcodes": [
           ":owl:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -20730,7 +20730,7 @@
         "shortcodes": [
           ":phoenix:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -20830,7 +20830,7 @@
         "shortcodes": [
           ":fish:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -20878,7 +20878,7 @@
         "shortcodes": [
           ":lobster:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -20964,7 +20964,7 @@
         "shortcodes": [
           ":scorpion:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -21556,7 +21556,7 @@
           ":beet:",
           ":turnip:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -21942,7 +21942,7 @@
         "shortcodes": [
           ":burrito:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -22098,7 +22098,7 @@
         "shortcodes": [
           ":lobster:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -22675,7 +22675,7 @@
         "shortcodes": [
           ":pour:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -23043,7 +23043,7 @@
         "shortcodes": [
           ":automobile:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -23116,7 +23116,7 @@
         "shortcodes": [
           ":racing-car:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -23164,7 +23164,7 @@
         "shortcodes": [
           ":taxi:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -23188,7 +23188,7 @@
         "shortcodes": [
           ":bus:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -23455,7 +23455,7 @@
         "shortcodes": [
           ":sailboat:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -23467,7 +23467,7 @@
         "shortcodes": [
           ":canoe:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -23626,7 +23626,7 @@
         "shortcodes": [
           ":ferris-wheel:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -24546,7 +24546,7 @@
           ":gold-medal:",
           ":1st-place-medal:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -24559,7 +24559,7 @@
           ":silver-medal:",
           ":2nd-place-medal:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -24572,7 +24572,7 @@
           ":bronze-medal:",
           ":3rd-place-medal:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -24609,7 +24609,7 @@
         "shortcodes": [
           ":trophy:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -24838,7 +24838,7 @@
         "shortcodes": [
           ":ice-skate:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -24850,7 +24850,7 @@
         "shortcodes": [
           ":roller-skates:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -24862,7 +24862,7 @@
         "shortcodes": [
           ":ballet-shoes:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -24874,7 +24874,7 @@
         "shortcodes": [
           ":skateboard:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -24886,7 +24886,7 @@
         "shortcodes": [
           ":flag-in-hole:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -24959,7 +24959,7 @@
         "shortcodes": [
           ":fishing-pole:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -25007,7 +25007,7 @@
         "shortcodes": [
           ":martial-arts-uniform:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -25031,7 +25031,7 @@
         "shortcodes": [
           ":8-ball:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -25213,7 +25213,7 @@
         "shortcodes": [
           ":wand:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -25286,7 +25286,7 @@
         "shortcodes": [
           ":splatter:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -25373,7 +25373,7 @@
         "shortcodes": [
           ":saxophone:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -25385,7 +25385,7 @@
         "shortcodes": [
           ":trumpet:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -25433,7 +25433,7 @@
         "shortcodes": [
           ":harp:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -25654,7 +25654,7 @@
         "shortcodes": [
           ":clapper:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -25930,7 +25930,7 @@
         "shortcodes": [
           ":coin:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -26740,7 +26740,7 @@
         "shortcodes": [
           ":ring:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -26764,7 +26764,7 @@
         "shortcodes": [
           ":fan:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -27387,7 +27387,7 @@
           ":shovel:",
           ":dig:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -27415,7 +27415,7 @@
         "shortcodes": [
           ":broken-chain:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -28012,24 +28012,24 @@
       },
       {
         "base": [
-          128232
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":incoming-envelope:"
-        ],
-        "animated": false,
-        "directional": false
-      },
-      {
-        "base": [
           128233
         ],
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
           ":envelope-with-arrow:"
+        ],
+        "animated": false,
+        "directional": false
+      },
+      {
+        "base": [
+          128232
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":incoming-envelope:"
         ],
         "animated": false,
         "directional": false
@@ -28812,7 +28812,7 @@
         "shortcodes": [
           ":bomb:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -28824,7 +28824,7 @@
         "shortcodes": [
           ":mouse-trap:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -28936,7 +28936,7 @@
         "shortcodes": [
           ":locked:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -30553,7 +30553,7 @@
         "shortcodes": [
           ":radioactive:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -30566,7 +30566,7 @@
         "shortcodes": [
           ":biohazard:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -30579,7 +30579,7 @@
         "shortcodes": [
           ":warning:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -31749,7 +31749,7 @@
         "shortcodes": [
           ":peace-symbol:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -31762,7 +31762,7 @@
         "shortcodes": [
           ":yin-yang:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
@@ -31863,7 +31863,7 @@
         "shortcodes": [
           ":infinity:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false
       },
       {
