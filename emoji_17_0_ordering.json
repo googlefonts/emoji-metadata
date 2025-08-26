@@ -8982,21 +8982,28 @@
           [
             129340,
             127999
-          ],
-          [
-            129489,
-            127995,
-            8205,
-            129775,
-            8205,
-            129489,
-            127996
           ]
         ],
         "emoticons": [],
         "shortcodes": [
           ":wrestling:"
         ],
+        "animated": false,
+        "directional": false
+      },
+      {
+        "base": [
+          129489,
+          127995,
+          8205,
+          129775,
+          8205,
+          129489,
+          127996
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [],
         "animated": false,
         "directional": false
       },
@@ -20862,6 +20869,18 @@
       },
       {
         "base": [
+          127807
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":herb:"
+        ],
+        "animated": false,
+        "directional": false
+      },
+      {
+        "base": [
           127793
         ],
         "alternates": [],
@@ -20871,18 +20890,6 @@
           ":seed:"
         ],
         "animated": true,
-        "directional": false
-      },
-      {
-        "base": [
-          127807
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":herb:"
-        ],
-        "animated": false,
         "directional": false
       },
       {
@@ -22000,18 +22007,6 @@
       },
       {
         "base": [
-          129437
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":raccoon:"
-        ],
-        "animated": false,
-        "directional": false
-      },
-      {
-        "base": [
           128046
         ],
         "alternates": [],
@@ -22056,18 +22051,6 @@
         "emoticons": [],
         "shortcodes": [
           ":boar:"
-        ],
-        "animated": false,
-        "directional": false
-      },
-      {
-        "base": [
-          129427
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":zebra:"
         ],
         "animated": false,
         "directional": false
@@ -22503,6 +22486,18 @@
       },
       {
         "base": [
+          129427
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":zebra:"
+        ],
+        "animated": false,
+        "directional": false
+      },
+      {
+        "base": [
           128024
         ],
         "alternates": [],
@@ -22667,6 +22662,18 @@
         "emoticons": [],
         "shortcodes": [
           ":beaver:"
+        ],
+        "animated": false,
+        "directional": false
+      },
+      {
+        "base": [
+          129437
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":raccoon:"
         ],
         "animated": false,
         "directional": false
@@ -29186,6 +29193,18 @@
       },
       {
         "base": [
+          128096
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":high-heeled-shoe:"
+        ],
+        "animated": false,
+        "directional": false
+      },
+      {
+        "base": [
           129652
         ],
         "alternates": [],
@@ -29193,18 +29212,6 @@
         "shortcodes": [
           ":flip-flop:",
           ":thong-sandal:"
-        ],
-        "animated": false,
-        "directional": false
-      },
-      {
-        "base": [
-          128096
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":high-heeled-shoe:"
         ],
         "animated": false,
         "directional": false
@@ -33974,6 +33981,19 @@
       },
       {
         "base": [
+          9877,
+          65039
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":medical-symbol:"
+        ],
+        "animated": false,
+        "directional": false
+      },
+      {
+        "base": [
           128159
         ],
         "alternates": [],
@@ -34176,6 +34196,22 @@
       },
       {
         "base": [
+          128065,
+          65039,
+          8205,
+          128488,
+          65039
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":eye-bubble:"
+        ],
+        "animated": false,
+        "directional": false
+      },
+      {
+        "base": [
           129489,
           8205,
           129489,
@@ -34234,19 +34270,6 @@
         "emoticons": [],
         "shortcodes": [
           ":family-3:"
-        ],
-        "animated": false,
-        "directional": false
-      },
-      {
-        "base": [
-          9877,
-          65039
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":medical-symbol:"
         ],
         "animated": false,
         "directional": false
@@ -34536,22 +34559,6 @@
         "emoticons": [],
         "shortcodes": [
           ":white-square-small:"
-        ],
-        "animated": false,
-        "directional": false
-      },
-      {
-        "base": [
-          128065,
-          65039,
-          8205,
-          128488,
-          65039
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":eye-bubble:"
         ],
         "animated": false,
         "directional": false
