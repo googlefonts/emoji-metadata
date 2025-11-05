@@ -7114,7 +7114,7 @@
           ":kneeling:"
         ],
         "animated": false,
-        "directional": false,
+        "directional": true,
         "tone_group": 6
       },
       {
@@ -7394,7 +7394,7 @@
           ":person-in-motorized-wheelchair:"
         ],
         "animated": false,
-        "directional": false,
+        "directional": true,
         "tone_group": 6
       },
       {
@@ -7674,7 +7674,7 @@
           ":person-in-manual-wheelchair:"
         ],
         "animated": false,
-        "directional": false,
+        "directional": true,
         "tone_group": 6
       },
       {
@@ -7955,7 +7955,7 @@
           ":blind:"
         ],
         "animated": false,
-        "directional": false,
+        "directional": true,
         "tone_group": 6
       },
       {
@@ -8233,7 +8233,7 @@
           ":walking:"
         ],
         "animated": false,
-        "directional": false,
+        "directional": true,
         "tone_group": 6
       },
       {
@@ -8511,7 +8511,7 @@
           ":running:"
         ],
         "animated": false,
-        "directional": false,
+        "directional": true,
         "tone_group": 6
       },
       {
