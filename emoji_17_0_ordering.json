@@ -532,21 +532,6 @@
         "shortcodes": [
           ":distorted-face:"
         ],
-        "animated": false,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
-          129396
-        ],
-        "alternates": [],
-        "emoticons": [
-          ">\ufe4f\u2609"
-        ],
-        "shortcodes": [
-          ":woozy:"
-        ],
         "animated": true,
         "directional": false,
         "tone_group": 0
@@ -1721,7 +1706,7 @@
         "shortcodes": [
           ":ogre:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -1804,7 +1789,7 @@
         "shortcodes": [
           ":moon-face-new:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -1819,7 +1804,7 @@
         "shortcodes": [
           ":moon-face-full:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -2042,7 +2027,7 @@
         "shortcodes": [
           ":star:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -2109,7 +2094,7 @@
         "shortcodes": [
           ":fight:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -2163,7 +2148,7 @@
         "shortcodes": [
           ":hole:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -2512,7 +2497,7 @@
         "shortcodes": [
           ":heart:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -2601,7 +2586,7 @@
         "shortcodes": [
           ":hugging:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -2641,7 +2626,7 @@
         "shortcodes": [
           ":speaking-head:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -2693,7 +2678,7 @@
         "shortcodes": [
           ":brain:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -2772,7 +2757,7 @@
         "shortcodes": [
           ":bone:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -9249,22 +9234,6 @@
             127995
           ],
           [
-            129340,
-            127996
-          ],
-          [
-            129340,
-            127997
-          ],
-          [
-            129340,
-            127998
-          ],
-          [
-            129340,
-            127999
-          ],
-          [
             129489,
             127995,
             8205,
@@ -9308,6 +9277,10 @@
             8205,
             129489,
             127995
+          ],
+          [
+            129340,
+            127996
           ],
           [
             129489,
@@ -9355,6 +9328,10 @@
             127996
           ],
           [
+            129340,
+            127997
+          ],
+          [
             129489,
             127997,
             8205,
@@ -9400,6 +9377,10 @@
             127997
           ],
           [
+            129340,
+            127998
+          ],
+          [
             129489,
             127998,
             8205,
@@ -9443,6 +9424,10 @@
             8205,
             129489,
             127998
+          ],
+          [
+            129340,
+            127999
           ]
         ],
         "emoticons": [],
@@ -9475,34 +9460,6 @@
             65039
           ],
           [
-            129340,
-            127996,
-            8205,
-            9794,
-            65039
-          ],
-          [
-            129340,
-            127997,
-            8205,
-            9794,
-            65039
-          ],
-          [
-            129340,
-            127998,
-            8205,
-            9794,
-            65039
-          ],
-          [
-            129340,
-            127999,
-            8205,
-            9794,
-            65039
-          ],
-          [
             128104,
             127995,
             8205,
@@ -9546,6 +9503,13 @@
             8205,
             128104,
             127995
+          ],
+          [
+            129340,
+            127996,
+            8205,
+            9794,
+            65039
           ],
           [
             128104,
@@ -9593,6 +9557,13 @@
             127996
           ],
           [
+            129340,
+            127997,
+            8205,
+            9794,
+            65039
+          ],
+          [
             128104,
             127997,
             8205,
@@ -9638,6 +9609,13 @@
             127997
           ],
           [
+            129340,
+            127998,
+            8205,
+            9794,
+            65039
+          ],
+          [
             128104,
             127998,
             8205,
@@ -9681,6 +9659,13 @@
             8205,
             128104,
             127998
+          ],
+          [
+            129340,
+            127999,
+            8205,
+            9794,
+            65039
           ]
         ],
         "emoticons": [],
@@ -9713,34 +9698,6 @@
             65039
           ],
           [
-            129340,
-            127996,
-            8205,
-            9792,
-            65039
-          ],
-          [
-            129340,
-            127997,
-            8205,
-            9792,
-            65039
-          ],
-          [
-            129340,
-            127998,
-            8205,
-            9792,
-            65039
-          ],
-          [
-            129340,
-            127999,
-            8205,
-            9792,
-            65039
-          ],
-          [
             128105,
             127995,
             8205,
@@ -9784,6 +9741,13 @@
             8205,
             128105,
             127995
+          ],
+          [
+            129340,
+            127996,
+            8205,
+            9792,
+            65039
           ],
           [
             128105,
@@ -9831,6 +9795,13 @@
             127996
           ],
           [
+            129340,
+            127997,
+            8205,
+            9792,
+            65039
+          ],
+          [
             128105,
             127997,
             8205,
@@ -9876,6 +9847,13 @@
             127997
           ],
           [
+            129340,
+            127998,
+            8205,
+            9792,
+            65039
+          ],
+          [
             128105,
             127998,
             8205,
@@ -9919,6 +9897,13 @@
             8205,
             128105,
             127998
+          ],
+          [
+            129340,
+            127999,
+            8205,
+            9792,
+            65039
           ]
         ],
         "emoticons": [],
@@ -10281,7 +10266,7 @@
         "shortcodes": [
           ":parachute:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -11436,7 +11421,7 @@
         "shortcodes": [
           ":hairy-creature:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -16030,22 +16015,6 @@
             127995
           ],
           [
-            128111,
-            127996
-          ],
-          [
-            128111,
-            127997
-          ],
-          [
-            128111,
-            127998
-          ],
-          [
-            128111,
-            127999
-          ],
-          [
             129489,
             127995,
             8205,
@@ -16089,6 +16058,10 @@
             8205,
             129489,
             127995
+          ],
+          [
+            128111,
+            127996
           ],
           [
             129489,
@@ -16136,6 +16109,10 @@
             127996
           ],
           [
+            128111,
+            127997
+          ],
+          [
             129489,
             127997,
             8205,
@@ -16181,6 +16158,10 @@
             127997
           ],
           [
+            128111,
+            127998
+          ],
+          [
             129489,
             127998,
             8205,
@@ -16224,6 +16205,10 @@
             8205,
             129489,
             127998
+          ],
+          [
+            128111,
+            127999
           ]
         ],
         "emoticons": [],
@@ -16256,34 +16241,6 @@
             65039
           ],
           [
-            128111,
-            127996,
-            8205,
-            9794,
-            65039
-          ],
-          [
-            128111,
-            127997,
-            8205,
-            9794,
-            65039
-          ],
-          [
-            128111,
-            127998,
-            8205,
-            9794,
-            65039
-          ],
-          [
-            128111,
-            127999,
-            8205,
-            9794,
-            65039
-          ],
-          [
             128104,
             127995,
             8205,
@@ -16327,6 +16284,13 @@
             8205,
             128104,
             127995
+          ],
+          [
+            128111,
+            127996,
+            8205,
+            9794,
+            65039
           ],
           [
             128104,
@@ -16374,6 +16338,13 @@
             127996
           ],
           [
+            128111,
+            127997,
+            8205,
+            9794,
+            65039
+          ],
+          [
             128104,
             127997,
             8205,
@@ -16419,6 +16390,13 @@
             127997
           ],
           [
+            128111,
+            127998,
+            8205,
+            9794,
+            65039
+          ],
+          [
             128104,
             127998,
             8205,
@@ -16462,6 +16440,13 @@
             8205,
             128104,
             127998
+          ],
+          [
+            128111,
+            127999,
+            8205,
+            9794,
+            65039
           ]
         ],
         "emoticons": [],
@@ -16494,34 +16479,6 @@
             65039
           ],
           [
-            128111,
-            127996,
-            8205,
-            9792,
-            65039
-          ],
-          [
-            128111,
-            127997,
-            8205,
-            9792,
-            65039
-          ],
-          [
-            128111,
-            127998,
-            8205,
-            9792,
-            65039
-          ],
-          [
-            128111,
-            127999,
-            8205,
-            9792,
-            65039
-          ],
-          [
             128105,
             127995,
             8205,
@@ -16565,6 +16522,13 @@
             8205,
             128105,
             127995
+          ],
+          [
+            128111,
+            127996,
+            8205,
+            9792,
+            65039
           ],
           [
             128105,
@@ -16612,6 +16576,13 @@
             127996
           ],
           [
+            128111,
+            127997,
+            8205,
+            9792,
+            65039
+          ],
+          [
             128105,
             127997,
             8205,
@@ -16657,6 +16628,13 @@
             127997
           ],
           [
+            128111,
+            127998,
+            8205,
+            9792,
+            65039
+          ],
+          [
             128105,
             127998,
             8205,
@@ -16700,6 +16678,13 @@
             8205,
             128105,
             127998
+          ],
+          [
+            128111,
+            127999,
+            8205,
+            9792,
+            65039
           ]
         ],
         "emoticons": [],
@@ -20261,7 +20246,7 @@
         "shortcodes": [
           ":tulip:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20274,7 +20259,7 @@
         "shortcodes": [
           ":lotus:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20287,7 +20272,7 @@
         "shortcodes": [
           ":cherry-blossom:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20327,7 +20312,7 @@
         "shortcodes": [
           ":hyacinth:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20353,7 +20338,7 @@
         "shortcodes": [
           ":blossom:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20379,7 +20364,7 @@
         "shortcodes": [
           ":maple-leaf:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20392,7 +20377,7 @@
         "shortcodes": [
           ":mushroom:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20418,7 +20403,7 @@
         "shortcodes": [
           ":herb:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20499,7 +20484,7 @@
         "shortcodes": [
           ":cactus:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20551,7 +20536,7 @@
         "shortcodes": [
           ":evergreen-tree:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20603,7 +20588,7 @@
         "shortcodes": [
           ":rock:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20617,7 +20602,7 @@
           ":debris:",
           ":landslide:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20742,7 +20727,7 @@
         "shortcodes": [
           ":national-park:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20852,7 +20837,7 @@
         "shortcodes": [
           ":cyclone:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -20934,7 +20919,7 @@
         "shortcodes": [
           ":cloud:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -21031,7 +21016,7 @@
         "shortcodes": [
           ":partly-sunny:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -21207,7 +21192,7 @@
         "shortcodes": [
           ":ringed-planet:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -21286,7 +21271,7 @@
         "shortcodes": [
           ":milky-way:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -21469,7 +21454,7 @@
         "shortcodes": [
           ":lion-face:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -21525,7 +21510,7 @@
         "shortcodes": [
           ":wolf:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -21540,7 +21525,7 @@
         "shortcodes": [
           ":bear-face:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -21582,7 +21567,7 @@
         "shortcodes": [
           ":panda:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -21634,7 +21619,7 @@
         "shortcodes": [
           ":fox-face:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -22139,7 +22124,7 @@
         "shortcodes": [
           ":sloth:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -22362,7 +22347,7 @@
         "shortcodes": [
           ":raccoon:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -22401,7 +22386,7 @@
         "shortcodes": [
           ":hedgehog:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -22669,7 +22654,7 @@
         "shortcodes": [
           ":flamingo:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -22725,7 +22710,7 @@
         "shortcodes": [
           ":penguin:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -22764,7 +22749,7 @@
         "shortcodes": [
           ":orca:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23056,7 +23041,7 @@
         "shortcodes": [
           ":cricket:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23219,7 +23204,7 @@
         "shortcodes": [
           ":strawberry:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23232,7 +23217,7 @@
         "shortcodes": [
           ":cherries:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23245,7 +23230,7 @@
         "shortcodes": [
           ":red-apple:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23285,7 +23270,7 @@
         "shortcodes": [
           ":watermelon:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23313,7 +23298,7 @@
           ":orange:",
           ":mandarin:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23326,7 +23311,7 @@
         "shortcodes": [
           ":carrot:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23339,7 +23324,7 @@
         "shortcodes": [
           ":mango:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23352,7 +23337,7 @@
         "shortcodes": [
           ":pineapple:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23378,7 +23363,7 @@
         "shortcodes": [
           ":ear-of-corn:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23391,7 +23376,7 @@
         "shortcodes": [
           ":lemon:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23419,7 +23404,7 @@
         "shortcodes": [
           ":melon:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23432,7 +23417,7 @@
         "shortcodes": [
           ":pear:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23445,7 +23430,7 @@
         "shortcodes": [
           ":pea-pod:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23458,7 +23443,7 @@
         "shortcodes": [
           ":leafy-green:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23471,7 +23456,7 @@
         "shortcodes": [
           ":bell-pepper:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23497,7 +23482,7 @@
         "shortcodes": [
           ":kiwi-fruit:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23510,7 +23495,7 @@
         "shortcodes": [
           ":avocado:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23536,7 +23521,7 @@
         "shortcodes": [
           ":broccoli:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23549,7 +23534,7 @@
         "shortcodes": [
           ":cucumber:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23562,7 +23547,7 @@
         "shortcodes": [
           ":blueberries:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23575,7 +23560,7 @@
         "shortcodes": [
           ":grapes:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23642,7 +23627,7 @@
         "shortcodes": [
           ":potato:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23670,7 +23655,7 @@
         "shortcodes": [
           ":onion:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23683,7 +23668,7 @@
         "shortcodes": [
           ":ginger:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23696,7 +23681,7 @@
         "shortcodes": [
           ":garlic:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23709,7 +23694,7 @@
         "shortcodes": [
           ":beans:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23748,7 +23733,7 @@
         "shortcodes": [
           ":bread:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23826,7 +23811,7 @@
         "shortcodes": [
           ":pancakes:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23865,7 +23850,7 @@
         "shortcodes": [
           ":cheese-wedge:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23878,7 +23863,7 @@
         "shortcodes": [
           ":bacon:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23904,7 +23889,7 @@
         "shortcodes": [
           ":poultry-leg:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23930,7 +23915,7 @@
         "shortcodes": [
           ":hamburger:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23943,7 +23928,7 @@
         "shortcodes": [
           ":hot-dog:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23969,7 +23954,7 @@
         "shortcodes": [
           ":pretzel:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -23995,7 +23980,7 @@
         "shortcodes": [
           ":pizza:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24021,7 +24006,7 @@
         "shortcodes": [
           ":taco:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24138,7 +24123,7 @@
         "shortcodes": [
           ":green-salad:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24294,7 +24279,7 @@
         "shortcodes": [
           ":oden:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24346,7 +24331,7 @@
         "shortcodes": [
           ":dango:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24398,7 +24383,7 @@
         "shortcodes": [
           ":ice-cream:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24411,7 +24396,7 @@
         "shortcodes": [
           ":soft-ice-cream:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24424,7 +24409,7 @@
         "shortcodes": [
           ":pie:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24528,7 +24513,7 @@
         "shortcodes": [
           ":doughnut:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24541,7 +24526,7 @@
         "shortcodes": [
           ":cookie:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24567,7 +24552,7 @@
         "shortcodes": [
           ":salt:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24646,7 +24631,7 @@
           ":bubble-tea:",
           ":milk-tea:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24659,7 +24644,7 @@
         "shortcodes": [
           ":beverage-box:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24685,7 +24670,7 @@
         "shortcodes": [
           ":baby-bottle:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24698,7 +24683,7 @@
         "shortcodes": [
           ":teacup-without-handle:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24724,7 +24709,7 @@
         "shortcodes": [
           ":teapot:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24737,7 +24722,7 @@
         "shortcodes": [
           ":mate:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24880,7 +24865,7 @@
         "shortcodes": [
           ":chopsticks:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24933,7 +24918,7 @@
         "shortcodes": [
           ":fork-and-knife-with-plate:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       }
@@ -24951,7 +24936,7 @@
         "shortcodes": [
           ":stop-sign:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -24990,7 +24975,7 @@
         "shortcodes": [
           ":fuel-pump:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -25043,7 +25028,7 @@
         "shortcodes": [
           ":ring-buoy:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -25056,7 +25041,7 @@
         "shortcodes": [
           ":anchor:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -25108,7 +25093,7 @@
         "shortcodes": [
           ":vertical-traffic-light:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -25200,7 +25185,7 @@
         "shortcodes": [
           ":motorcycle:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -25265,7 +25250,7 @@
         "shortcodes": [
           ":delivery-truck:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -25291,7 +25276,7 @@
         "shortcodes": [
           ":tractor:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -25448,7 +25433,7 @@
         "shortcodes": [
           ":locomotive:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -25777,7 +25762,7 @@
         "shortcodes": [
           ":airplane:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -25870,7 +25855,7 @@
         "shortcodes": [
           ":carousel-horse:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -25922,7 +25907,7 @@
         "shortcodes": [
           ":moai:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -26278,7 +26263,7 @@
         "shortcodes": [
           ":derelict-house:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -26291,7 +26276,7 @@
         "shortcodes": [
           ":house:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -26412,7 +26397,7 @@
         "shortcodes": [
           ":sunset:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -26693,7 +26678,7 @@
         "shortcodes": [
           ":diya-lamp:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -26985,7 +26970,7 @@
         "shortcodes": [
           ":basketball:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -27024,7 +27009,7 @@
         "shortcodes": [
           ":rugby-football:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -27154,7 +27139,7 @@
         "shortcodes": [
           ":skis:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -27417,7 +27402,7 @@
         "shortcodes": [
           ":chess-pawn:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -27600,7 +27585,7 @@
         "shortcodes": [
           ":camera:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -27773,7 +27758,7 @@
         "shortcodes": [
           ":trombone:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -27786,7 +27771,7 @@
         "shortcodes": [
           ":guitar:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -27799,7 +27784,7 @@
         "shortcodes": [
           ":banjo:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -27997,7 +27982,7 @@
         "shortcodes": [
           ":television:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28051,7 +28036,7 @@
         "shortcodes": [
           ":film:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28077,7 +28062,7 @@
         "shortcodes": [
           ":performing-arts:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28104,7 +28089,7 @@
         "shortcodes": [
           ":admission-tickets:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       }
@@ -28162,7 +28147,7 @@
         "shortcodes": [
           ":pager:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28188,7 +28173,7 @@
         "shortcodes": [
           ":electric-plug:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28267,7 +28252,7 @@
         "shortcodes": [
           ":optical-disk:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28307,7 +28292,7 @@
         "shortcodes": [
           ":laptop-computer:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28335,7 +28320,7 @@
         "shortcodes": [
           ":printer:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28362,7 +28347,7 @@
         "shortcodes": [
           ":treasure:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28532,7 +28517,7 @@
         "shortcodes": [
           ":shopping-cart:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28822,7 +28807,7 @@
         "shortcodes": [
           ":broom:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -28926,7 +28911,7 @@
         "shortcodes": [
           ":socks:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -29239,7 +29224,7 @@
         "shortcodes": [
           ":crown:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -29422,7 +29407,7 @@
         "shortcodes": [
           ":high-heeled-shoe:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -29449,7 +29434,7 @@
         "shortcodes": [
           ":running-shoe:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -29595,7 +29580,7 @@
         "shortcodes": [
           ":thermometer:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -29647,7 +29632,7 @@
         "shortcodes": [
           ":stethoscope:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -29910,7 +29895,7 @@
         "shortcodes": [
           ":hammer-and-wrench:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30009,7 +29994,7 @@
         "shortcodes": [
           ":chains:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30036,7 +30021,7 @@
         "shortcodes": [
           ":linked-paperclips:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30050,7 +30035,7 @@
         "shortcodes": [
           ":scissors:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30371,7 +30356,7 @@
         "shortcodes": [
           ":books:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30450,7 +30435,7 @@
         "shortcodes": [
           ":bar-chart:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30463,7 +30448,7 @@
         "shortcodes": [
           ":chart-increasing:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30476,7 +30461,7 @@
         "shortcodes": [
           ":chart-decreasing:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30542,7 +30527,7 @@
         "shortcodes": [
           ":wastebasket:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30740,7 +30725,7 @@
         "shortcodes": [
           ":package:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30780,7 +30765,7 @@
         "shortcodes": [
           ":ballot-box:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30873,7 +30858,7 @@
         "shortcodes": [
           ":hourglass-done:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -30886,7 +30871,7 @@
         "shortcodes": [
           ":hourglass-not-done:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -31334,7 +31319,7 @@
         "shortcodes": [
           ":megaphone:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -31360,7 +31345,7 @@
         "shortcodes": [
           ":magnifying-glass-tilted-right:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -32050,7 +32035,7 @@
         "shortcodes": [
           ":heart:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -32092,7 +32077,7 @@
         "shortcodes": [
           ":spade:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -32331,7 +32316,7 @@
         "shortcodes": [
           ":anger-bubble:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -32344,7 +32329,7 @@
         "shortcodes": [
           ":speech-bubble:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -32739,7 +32724,7 @@
         "shortcodes": [
           ":hot-springs:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -33965,7 +33950,7 @@
         "shortcodes": [
           ":ok-button:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -35060,7 +35045,7 @@
         "shortcodes": [
           ":copyright:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -35074,7 +35059,7 @@
         "shortcodes": [
           ":registered:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
@@ -35088,7 +35073,7 @@
         "shortcodes": [
           ":trade-mark:"
         ],
-        "animated": false,
+        "animated": true,
         "directional": false,
         "tone_group": 0
       },
