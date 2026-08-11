@@ -3168,6 +3168,43 @@
       },
       {
         "base": [
+          129786
+        ],
+        "alternates": [
+          [
+            129786
+          ],
+          [
+            129786,
+            127995
+          ],
+          [
+            129786,
+            127996
+          ],
+          [
+            129786,
+            127997
+          ],
+          [
+            129786,
+            127998
+          ],
+          [
+            129786,
+            127999
+          ]
+        ],
+        "emoticons": [],
+        "shortcodes": [
+          ":thumbs-rightwards:"
+        ],
+        "animated": true,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
           128078
         ],
         "alternates": [
@@ -3202,6 +3239,43 @@
         "animated": true,
         "directional": false,
         "tone_group": 1
+      },
+      {
+        "base": [
+          129785
+        ],
+        "alternates": [
+          [
+            129785
+          ],
+          [
+            129785,
+            127995
+          ],
+          [
+            129785,
+            127996
+          ],
+          [
+            129785,
+            127997
+          ],
+          [
+            129785,
+            127998
+          ],
+          [
+            129785,
+            127999
+          ]
+        ],
+        "emoticons": [],
+        "shortcodes": [
+          ":thumbs-lefttwards:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
       },
       {
         "base": [
