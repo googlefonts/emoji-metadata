@@ -28279,6 +28279,19 @@
       },
       {
         "base": [
+          128242
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":phone-with-arrow:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
           9742,
           65039
         ],
@@ -28385,12 +28398,12 @@
       },
       {
         "base": [
-          128189
+          128190
         ],
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":computer-disk:"
+          ":floppy-disk:"
         ],
         "animated": false,
         "directional": false,
@@ -28398,12 +28411,12 @@
       },
       {
         "base": [
-          128190
+          128189
         ],
         "alternates": [],
         "emoticons": [],
         "shortcodes": [
-          ":floppy-disk:"
+          ":computer-disk:"
         ],
         "animated": false,
         "directional": false,
@@ -32989,32 +33002,6 @@
       },
       {
         "base": [
-          128244
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":phone-off:"
-        ],
-        "animated": true,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
-          128732
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":wireless:"
-        ],
-        "animated": false,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
           128243
         ],
         "alternates": [],
@@ -33022,19 +33009,6 @@
         "shortcodes": [
           ":vibration:",
           ":vibration-mode:"
-        ],
-        "animated": false,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
-          128242
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":phone-with-arrow:"
         ],
         "animated": false,
         "directional": false,
@@ -33667,6 +33641,32 @@
         "emoticons": [],
         "shortcodes": [
           ":ng:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
+          128244
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":phone-off:"
+        ],
+        "animated": true,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
+          128732
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":wireless:"
         ],
         "animated": false,
         "directional": false,
