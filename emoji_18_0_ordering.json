@@ -28292,20 +28292,6 @@
       },
       {
         "base": [
-          128243
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":vibration:",
-          ":vibration-mode:"
-        ],
-        "animated": false,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
           9742,
           65039
         ],
@@ -31476,6 +31462,61 @@
       },
       {
         "base": [
+          128263
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":mute:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
+          128264
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":low-volume:",
+          ":speaker-low-volume:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
+          128265
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":medium-volume:",
+          ":speaker-medium-volume:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
+          128266
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":high-volume:",
+          ":speaker-high-volume:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
           128276
         ],
         "alternates": [],
@@ -32949,6 +32990,59 @@
       },
       {
         "base": [
+          127386
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":vs:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
+          128244
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":phone-off:"
+        ],
+        "animated": true,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
+          128243
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":vibration:",
+          ":vibration-mode:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
+          128732
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":wireless:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
           128310
         ],
         "alternates": [],
@@ -32996,19 +33090,6 @@
         "shortcodes": [
           ":dim:",
           ":dimness:"
-        ],
-        "animated": false,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
-          127386
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":vs:"
         ],
         "animated": false,
         "directional": false,
@@ -33213,32 +33294,6 @@
         "emoticons": [],
         "shortcodes": [
           ":sparkle:"
-        ],
-        "animated": false,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
-          128244
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":phone-off:"
-        ],
-        "animated": true,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
-          128732
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":wireless:"
         ],
         "animated": false,
         "directional": false,
@@ -33808,6 +33863,19 @@
       },
       {
         "base": [
+          128246
+        ],
+        "alternates": [],
+        "emoticons": [],
+        "shortcodes": [
+          ":signal-strength:"
+        ],
+        "animated": false,
+        "directional": false,
+        "tone_group": 0
+      },
+      {
+        "base": [
           35,
           65039,
           8419
@@ -34369,19 +34437,6 @@
       },
       {
         "base": [
-          128246
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":signal-strength:"
-        ],
-        "animated": false,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
           128699
         ],
         "alternates": [],
@@ -34860,61 +34915,6 @@
           ":musical-notes:"
         ],
         "animated": true,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
-          128263
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":mute:"
-        ],
-        "animated": false,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
-          128264
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":low-volume:",
-          ":speaker-low-volume:"
-        ],
-        "animated": false,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
-          128265
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":medium-volume:",
-          ":speaker-medium-volume:"
-        ],
-        "animated": false,
-        "directional": false,
-        "tone_group": 0
-      },
-      {
-        "base": [
-          128266
-        ],
-        "alternates": [],
-        "emoticons": [],
-        "shortcodes": [
-          ":high-volume:",
-          ":speaker-high-volume:"
-        ],
-        "animated": false,
         "directional": false,
         "tone_group": 0
       },
