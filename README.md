@@ -7,7 +7,7 @@ This repository provides metadata to support UX around emoji. In particular, it 
 * `emoji_15_1_ordering.json` for Emoji 15.1.
 * `emoji_16_0_ordering.json` for Emoji 16.0.
 * `emoji_17_0_ordering.json` for Emoji 17.0.
-
+* `emoji_18_0_ordering.json` for Emoji 18.0.
 As emoji evolves new orderings will be added. 
 
 Demo: https://jsbin.com/kesuteh/1/edit?css,js,output
